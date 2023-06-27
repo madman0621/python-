@@ -321,8 +321,8 @@ if __name__ == '__main__':
         #     {"name": "字节前端 ByteFE", "fakeid": "Mzg2ODQ1OTExOA=="})
         # getLastWeChatArticle(
         #     {"name": "阿里巴巴终端技术", "fakeid": "Mzg4MjE5OTI4Mw=="})
-        res = requests.get('http://myip.ipip.net', timeout=5).text
-        print(res)
+        # res = requests.get('http://myip.ipip.net', timeout=5).text
+        # print(res)
 
         print('数据抓取完成')
     except Exception as e:
