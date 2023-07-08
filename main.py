@@ -8,7 +8,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 获取基础配置 注意更新cookie和token
-with open("./config/index.json", "r") as file:
+with open("./config/index.json", "r", encoding='utf-8') as file:
     config = json.load(file)
     userConfig = config['userInfo']
     weChatConfig = config['weChatInfo']
@@ -75,7 +75,7 @@ def getAllWeChatArticle(info):
     # 获取请求缓存
     cacheFilePath = './cache/getAllWeChatArticle_%s.json' % (info['name'])
     if os.path.exists(cacheFilePath) and os.path.getsize(cacheFilePath):
-        with open(cacheFilePath, "r") as dataFile:
+        with open(cacheFilePath, "r", encoding='utf-8') as dataFile:
             cacheData = json.load(dataFile)
             begin = cacheData['begin']
             articles = cacheData['articles']
@@ -143,7 +143,7 @@ def getLastWeChatArticle(info):
     # 1、获取本地公众号信息中最新一篇文章创建时间
     jsonFilePath = './data/articles/%s.json' % (info['name'])
     if os.path.exists(jsonFilePath) and os.path.getsize(jsonFilePath):
-        with open(jsonFilePath, "r") as dataFile:
+        with open(jsonFilePath, "r", encoding='utf-8') as dataFile:
             oldDataJson = json.load(dataFile)
             lastTime = oldDataJson[0]['create_time']
     else:
@@ -160,7 +160,7 @@ def getLastWeChatArticle(info):
     # 获取请求缓存
     cacheFilePath = './cache/getLastWeChatArticle_%s.json' % (info['name'])
     if os.path.exists(cacheFilePath) and os.path.getsize(cacheFilePath):
-        with open(cacheFilePath, "r") as dataFile:
+        with open(cacheFilePath, "r", encoding='utf-8') as dataFile:
             cacheData = json.load(dataFile)
             begin = cacheData['begin']
             articles = cacheData['articles']
@@ -244,7 +244,7 @@ def getLastWeChatArticle(info):
         if strYear not in timeData:
             yearDataFile = './data/time/%s.json' % strYear
             if os.path.exists(yearDataFile) and os.path.getsize(yearDataFile):
-                with open(yearDataFile, "r") as dataFile:
+                with open(yearDataFile, "r", encoding='utf-8') as dataFile:
                     yearData = json.load(dataFile)
             if len(yearData) < 12:
                 yearData.extend(list() for i in range(12-len(yearData)))
