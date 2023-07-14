@@ -197,10 +197,10 @@ def getLastWeChatArticle(info):
             if articleItem['create_time'] <= lastTime:
                 isBreak = True
                 break
-            if (len(articles)):
-                lastCreateTime = articles[-1]['create_time']
-                if (articleItem['create_time'] >= lastCreateTime):
-                    continue
+            # if (len(articles)):
+            #     lastCreateTime = articles[-1]['create_time']
+            #     if (articleItem['create_time'] > lastCreateTime):
+            #         continue
             articles.append({
                 "aid": articleItem['aid'],
                 "appmsgid": articleItem['appmsgid'],
@@ -319,11 +319,12 @@ if __name__ == '__main__':
         # getAllWeChatArticle({"name": "支付宝体验科技", "fakeid": "Mzg2OTYyODU0NQ=="})
         # getAllWeChatArticle(
         #     {"name": "字节前端 ByteFE", "fakeid": "Mzg2ODQ1OTExOA=="})
+        # TODO
         # getLastWeChatArticle(
-        #     {"name": "阿里巴巴终端技术", "fakeid": "Mzg4MjE5OTI4Mw=="})
-        # res = requests.get('http://myip.ipip.net', timeout=5).text
+        #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
         # print(res)
-
+        for infoItem in weChatConfig:
+            getLastWeChatArticle(infoItem)
         print('数据抓取完成')
     except Exception as e:
         log('error:', str(e))
