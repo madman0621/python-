@@ -189,7 +189,7 @@ def getLastWeChatArticle(info):
             return
 
         num = resp['app_msg_cnt']
-        begin += len(resp['app_msg_list'])
+        begin += 5
         log('当前抓取进度：', info['name'], ' ', begin, '/', num)
         # log("app_msg_list:", resp['app_msg_list'])
         isBreak = False
@@ -323,8 +323,8 @@ if __name__ == '__main__':
         # getLastWeChatArticle(
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
         # print(res)
-        for infoItem in weChatConfig:
-            getLastWeChatArticle(infoItem)
+        # for infoItem in weChatConfig:
+        #     getLastWeChatArticle(infoItem)
         print('数据抓取完成')
     except Exception as e:
         log('error:', str(e))
