@@ -319,10 +319,8 @@ if __name__ == '__main__':
         # getAllWeChatArticle({"name": "支付宝体验科技", "fakeid": "Mzg2OTYyODU0NQ=="})
         # getAllWeChatArticle(
         #     {"name": "字节前端 ByteFE", "fakeid": "Mzg2ODQ1OTExOA=="})
-        # TODO
         # getLastWeChatArticle(
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
-        # print(res)
         # for infoItem in weChatConfig:
         #     getLastWeChatArticle(infoItem)
         print('数据抓取完成')
