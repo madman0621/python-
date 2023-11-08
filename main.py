@@ -4,6 +4,7 @@ import time
 from datetime import datetime, timedelta, timezone, tzinfo
 import os
 import requests
+import pyshorteners
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -24,8 +25,6 @@ def log(*msg):
         '%Y-%m-%d %H:%M:%S'), *msg)
 
 # 通过query关键字查询公众号信息
-
-
 def findWeChatInfo(query):
     search_url = 'https://mp.weixin.qq.com/cgi-bin/searchbiz?'
     # 搜索微信公众号接口需要传入的参数，有三个变量：微信公众号token、随机数random、搜索的微信公众号名字
@@ -308,6 +307,31 @@ def getLastWeChatArticle(info):
         with open(mdFilePath, 'w+', encoding='utf-8') as mdFile:
             mdFile.write(mdText)
 
+# 获取前一日公众号文章日报
+def getDayInfo():
+    # 获取昨天的年、月、日
+    yesterdayTime = datetime.now(tz=timezone(timedelta(hours=8))) + timedelta(days=-1)
+    strYear = str(yesterdayTime.year)
+    indexMonth = yesterdayTime.month
+    indexDay = yesterdayTime.day
+
+    yesterdayData = []
+    yearDataFile = './data/time/%s.json' % strYear
+    if os.path.exists(yearDataFile) and os.path.getsize(yearDataFile):
+        with open(yearDataFile, "r", encoding='utf-8') as dataFile:
+            yesterdayData = json.load(dataFile)[indexMonth-1][indexDay-1]
+    # 拼写推送文案 
+    resultText = '\n每日技术公众号文章推送\n\n'
+    s = pyshorteners.Shortener()
+    for infoItem in reversed(yesterdayData[-5:]):
+        sortUrl = s.tinyurl.short(infoItem['link'])
+        resultText += '%s-%s %s  \n' % (infoItem['from'],infoItem['title'],sortUrl)
+    
+    resultText += '... \n'
+    moreUrl = 'https://github.com/madman0621/WeChat_Article/blob/dev_1.0.0/dist/time/%s.md#%s-%s-%s' % (strYear,strYear,str(indexMonth),str(indexDay))
+    resultText += '更多详情 %s' % (s.tinyurl.short(moreUrl))
+    log(resultText)
+                                       
 
 if __name__ == '__main__':
     try:
@@ -321,8 +345,11 @@ if __name__ == '__main__':
         #     {"name": "字节前端 ByteFE", "fakeid": "Mzg2ODQ1OTExOA=="})
         # getLastWeChatArticle(
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
+
+
         # for infoItem in weChatConfig:
         #     getLastWeChatArticle(infoItem)
-        print('数据抓取完成')
+        # print('数据抓取完成')
+        # getDayInfo()
     except Exception as e:
         log('error:', str(e))
