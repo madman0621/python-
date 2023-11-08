@@ -328,7 +328,7 @@ def getDayInfo():
         resultText += '%s-%s %s  \n' % (infoItem['from'],infoItem['title'],sortUrl)
     
     resultText += '... \n'
-    moreUrl = 'https://github.com/madman0621/WeChat_Article/blob/dev_1.0.0/dist/time/%s.md#%s-%s-%s' % (strYear,strYear,str(indexMonth),str(indexDay))
+    moreUrl = 'https://github.com/madman0621/WeChat_Article/blob/dev_1.0.0/dist/time/%s.md#%s' % (strYear,yesterdayTime.strftime('%Y-%m-%d'))
     resultText += '更多详情 %s' % (s.tinyurl.short(moreUrl))
     log(resultText)
                                        
@@ -351,5 +351,6 @@ if __name__ == '__main__':
         #     getLastWeChatArticle(infoItem)
         # print('数据抓取完成')
         # getDayInfo()
+
     except Exception as e:
         log('error:', str(e))
