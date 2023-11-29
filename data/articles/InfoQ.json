@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651188641_1",
+    "appmsgid": 2651188641,
+    "from": "InfoQ",
+    "title": "\u5b66\u597d\u00a0Prompt\uff0c\u548c\u5927\u6a21\u578b\u53cc\u5411\u5954\u8d74\uff01| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651188641&idx=1&sn=703cced0e14354c1572f44772551387b&chksm=bdb815f28acf9ce4f1dfda88ee35a040dc206c67bd7ad4737566adfbc084c61ab61aa92f55f7#rd",
+    "create_time": 1701166291,
+    "update_time": 1701166290
+  },
+  {
+    "aid": "2651188641_2",
+    "appmsgid": 2651188641,
+    "from": "InfoQ",
+    "title": "OpenAI\u201c\u5bab\u6597\u201d\u5bfc\u706b\u7d22\u627e\u5230\u4e86\uff01\u795e\u79d8\u201cQ*\u201d\u9879\u76ee\u66dd\u5149\uff0c\u6709\u53ef\u80fd\u5a01\u80c1\u4eba\u7c7b\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651188641&idx=2&sn=07a05d2bef1e87a948fba506b34cdade&chksm=bdb815f28acf9ce4633796e2aacd3d160b11250e89a947d095d8b3864e4095a30628ae7e0863#rd",
+    "create_time": 1701166291,
+    "update_time": 1701166290
+  },
+  {
+    "aid": "2651188641_3",
+    "appmsgid": 2651188641,
+    "from": "InfoQ",
+    "title": "\u200b\ud83d\ude80 \u4e9a\u9a6c\u900a\u4e91\u79d1\u6280 2023 re:Invent \u7cbe\u5f69\u901f\u9012-DAY1\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651188641&idx=3&sn=a67da1c7a01809d0af630b9653f60d13&chksm=bdb815f28acf9ce4338a739d286e7d9fe898b9efd5538384171b058ae48055fdb3750ff888c4#rd",
+    "create_time": 1701166291,
+    "update_time": 1701166290
+  },
+  {
+    "aid": "2651188641_4",
+    "appmsgid": 2651188641,
+    "from": "InfoQ",
+    "title": "\u4f18\u5316\u8d44\u6e90\u5229\u7528\uff1aKubernetes \u88c5\u7bb1\u7684\u6548\u76ca\u548c\u6311\u6218",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651188641&idx=4&sn=de10777b8bb11f89aeef8b5dbac10868&chksm=bdb815f28acf9ce485efbec5dcb5a9f323c5e789d29ce8a5158a07651a45b60d736d55e07638#rd",
+    "create_time": 1701166291,
+    "update_time": 1701166290
+  },
+  {
+    "aid": "2651188641_5",
+    "appmsgid": 2651188641,
+    "from": "InfoQ",
+    "title": "JetBrains \u63a8\u51fa\u57fa\u4e8e IntelliJ \u5e73\u53f0\u7684\u6280\u672f\u6587\u6863\u5199\u4f5c\u5de5\u5177 WriterSide",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651188641&idx=5&sn=b0e05760a03aa626783bcea17205f863&chksm=bdb815f28acf9ce4fafb46a975588aa8e90ffacd6eebd1fbcd6451e6d33c56f58f728d2e91e2#rd",
+    "create_time": 1701166291,
+    "update_time": 1701166290
+  },
+  {
     "aid": "2651188508_1",
     "appmsgid": 2651188508,
     "from": "InfoQ",
