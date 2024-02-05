@@ -1,5 +1,41 @@
 [
   {
+    "aid": "2651195669_1",
+    "appmsgid": 2651195669,
+    "from": "InfoQ",
+    "title": "\u672a\u6765\u6dd8\u6c70\u4f60\u7684\u662f AI \u8fd8\u662f\u61c2 AI \u7684\u540c\u4e8b\uff1fInfoQ\u7814\u7a76\u4e2d\u5fc3\u53d1\u5e03 2024 \u5e74\u4e2d\u56fd\u6280\u672f\u53d1\u5c55\u5341\u5927\u8d8b\u52bf",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651195669&idx=1&sn=b64dc21c92dc8a7b035fd77fb9d90f00&chksm=bdbbf1468acc7850edd5d71c41b1fdd5d3fa3879376e9caa5fc0c41be2a7768193932ffd5a81#rd",
+    "create_time": 1707010871,
+    "update_time": 1707012900
+  },
+  {
+    "aid": "2651195669_2",
+    "appmsgid": 2651195669,
+    "from": "InfoQ",
+    "title": "\u78be\u538b\u524d\u8f88\uff01Meta \u53d1\u5e03\u201c\u6700\u5927\u3001\u6027\u80fd\u6700\u597d\u201d\u7684\u5f00\u6e90 Code Llama 70B\uff0c\u4f46\u5f00\u53d1\u8005\u7eb7\u7eb7\u558a\u7a77\uff1a\u73a9\u4e0d\u8d77",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651195669&idx=2&sn=b1f11b1ee4a30a10b7943c718e639acb&chksm=bdbbf1468acc7850724fa6a20fa928d38615af37a252e8713a73f98aa1d12a4adff8a96aab18#rd",
+    "create_time": 1707010871,
+    "update_time": 1707012900
+  },
+  {
+    "aid": "2651195669_3",
+    "appmsgid": 2651195669,
+    "from": "InfoQ",
+    "title": "\u5f00\u6e90\u4ef7\u503c\u591a\u5c11\uff1f\u54c8\u4f5b\u5927\u5b66\u6700\u65b0\u7814\u7a76\u8ba4\u4e3a\u662f 8.8 \u4e07\u4ebf\u7f8e\u5143",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651195669&idx=3&sn=26a58c3c7296feca792f1270a35eec58&chksm=bdbbf1468acc7850be7ecfae459cf49f8abe0a8edc29c0614339aaa2c42351f29f949c79a4f8#rd",
+    "create_time": 1707010871,
+    "update_time": 1707012900
+  },
+  {
+    "aid": "2651195669_4",
+    "appmsgid": 2651195669,
+    "from": "InfoQ",
+    "title": "\u5fae\u8f6f\u53d1\u5e03 Visual Studio \u6269\u5c55 NuGetSolver\uff0c\u7b80\u5316 NuGet \u4f9d\u8d56\u9879\u51b2\u7a81\u89e3\u51b3\u8fc7\u7a0b",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651195669&idx=4&sn=acfd5749140935a05b03b69cabf9f4db&chksm=bdbbf1468acc78502a2c1598fd5fae19f4f776a4a93ae198f2b754da8c7b0a3978803239941a#rd",
+    "create_time": 1707010871,
+    "update_time": 1707012900
+  },
+  {
     "aid": "2651195667_1",
     "appmsgid": 2651195667,
     "from": "InfoQ",
