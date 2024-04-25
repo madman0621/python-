@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651203552_1",
+    "appmsgid": 2651203552,
+    "from": "InfoQ",
+    "title": "\u5168\u4e16\u754cIT\u4eba\u82e6\u7ade\u4e1a\u4e45\u77e3\uff01\u4eca\u5929\uff0c\u7f8e\u56fd\u5168\u9762\u5e9f\u9664\u7ade\u4e1a\u534f\u8bae",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651203552&idx=1&sn=ffda7f1c1d208cca028b698fa4be45ac&chksm=bdbbdfb38acc56a5addb26f2bace60fe5e4ef5f0d1d790f93806b2fe1b01ad96e2d71207a6fb#rd",
+    "create_time": 1713936878,
+    "update_time": 1713936878
+  },
+  {
+    "aid": "2651203552_2",
+    "appmsgid": 2651203552,
+    "from": "InfoQ",
+    "title": "\u6211\u5904\u7406\u4e86 5 \u4ebf GPT tokens \u540e\uff1aLangChain\u3001RAG \u7b49\u90fd\u6ca1\u4ec0\u4e48\u7528",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651203552&idx=2&sn=02311047af8bd9c96464e82b5f22c419&chksm=bdbbdfb38acc56a56ba90fd0e9b202c91f1a59b102f5f091cc208bd7751f2365119b04e6d0b5#rd",
+    "create_time": 1713936878,
+    "update_time": 1713936878
+  },
+  {
+    "aid": "2651203552_3",
+    "appmsgid": 2651203552,
+    "from": "InfoQ",
+    "title": "\u63a2\u7d22\u00a0Copilot\u00a0\u521b\u65b0\u5b9e\u8df5\uff1a\u817e\u8baf\u3001\u5b57\u8282\u8df3\u52a8\u3001PingCAP\u00a0\u4e0e\u7b2c\u56db\u8303\u5f0f\u5171\u805a\u00a0AICon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651203552&idx=3&sn=ff2eb8981591aeddcef4c0ec6c590d1d&chksm=bdbbdfb38acc56a50431f30b63e2df91937903a4ce792a3606b9538bf7cece9b71030e52acae#rd",
+    "create_time": 1713936878,
+    "update_time": 1713936878
+  },
+  {
+    "aid": "2651203552_4",
+    "appmsgid": 2651203552,
+    "from": "InfoQ",
+    "title": "\u8fd9\u5e74\u5934\uff0c\u8c01\u8fd8\u6ca1\u4e2a\u526f\u4e1a\u4e86\uff01| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651203552&idx=4&sn=146c1ce12e3e4fe5924390ebd5edb01d&chksm=bdbbdfb38acc56a5eb361835dd8ae9bc04135575f0b1918795efee858b4a63eb213458e3908b#rd",
+    "create_time": 1713936878,
+    "update_time": 1713936878
+  },
+  {
+    "aid": "2651203552_5",
+    "appmsgid": 2651203552,
+    "from": "InfoQ",
+    "title": "\u5c0f\u6a21\u578b\u65f6\u4ee3\u6765\u4e86\uff1f\u5fae\u8f6f\u63a8\u51fa\u5176\u6700\u5c0f\u53c2\u6570 AI \u6a21\u578b\uff0c\u6027\u80fd\u903c\u8fd1 GPT-3.5",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651203552&idx=5&sn=20cb24e4d295bea7a64dc7eba5869b76&chksm=bdbbdfb38acc56a56855c82a4b238ce07ce6030832d7ab720abe79eff3799e45a62f5c3b4993#rd",
+    "create_time": 1713936878,
+    "update_time": 1713936878
+  },
+  {
     "aid": "2651203457_1",
     "appmsgid": 2651203457,
     "from": "InfoQ",
