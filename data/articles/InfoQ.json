@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651204899_1",
+    "appmsgid": 2651204899,
+    "from": "InfoQ",
+    "title": "\u6295\u8d44\u5927\u4f6c\u70ae\u8f70\u8c37\u6b4c\u4e00\u534a\u5458\u5de5\u662f\u6446\u8bbe\uff01AI \u5de5\u7a0b\u5e08\uff1a\u6211\u4eec\u88ab\u62db\u6765\u540e\u51c0\u505a\u6ca1\u7528\u7684\u4e1c\u897f\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651204899&idx=1&sn=33f525d4b0fec5f6cc8842f632b59296&chksm=bdbbd5708acc5c662329403e53bafd2d44a3c20b9bb91382c58c7ba26503a2469219ecf49169#rd",
+    "create_time": 1715148852,
+    "update_time": 1715148851
+  },
+  {
+    "aid": "2651204899_2",
+    "appmsgid": 2651204899,
+    "from": "InfoQ",
+    "title": "gRPC \u771f\u7684\u6bd4 REST \u597d\u5417\uff1f\u6211\u5206\u6790\u4e86\u6765\u81ea 1000 \u540d\u5f00\u53d1\u8005\u7684\u771f\u5b9e\u53cd\u9988",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651204899&idx=2&sn=5c4ccaf49e63cf97cd3bae86b187a8b6&chksm=bdbbd5708acc5c66b8be56faa55c0106ed6992bc580635744fc33ba1e465aeecd13875ea2791#rd",
+    "create_time": 1715148852,
+    "update_time": 1715148851
+  },
+  {
+    "aid": "2651204899_3",
+    "appmsgid": 2651204899,
+    "from": "InfoQ",
+    "title": "AI \u4e0e\u5927\u6a21\u578b\u5982\u4f55\u5f71\u54cd\u4f01\u4e1a\u57fa\u7840\u5e73\u53f0\u548c\u6570\u636e\u4f53\u7cfb\u5efa\u8bbe?",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651204899&idx=3&sn=00c428b7f4f53ad2d4bfaab248597bcb&chksm=bdbbd5708acc5c66007353217884ef3da9fc7a4f2324f4f7818b81bac1fee4e878f150e6031b#rd",
+    "create_time": 1715148852,
+    "update_time": 1715148851
+  },
+  {
+    "aid": "2651204899_4",
+    "appmsgid": 2651204899,
+    "from": "InfoQ",
+    "title": "\u524d LangChain \u5458\u5de5\u7206\u6599\u66f4\u5f3a\u7684 Devin 2.0 \u8981\u6765\u4e86\uff1f\u6240\u4ee5\uff0c\u201c\u4e16\u754c\u9996\u4e2aAI\u7a0b\u5e8f\u5458\u201d\u5230\u5e95\u9020\u5047\u6ca1\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651204899&idx=4&sn=2ac6c808a713197898c01abaa0a06a44&chksm=bdbbd5708acc5c66749f972913aed390e047848591cf4698780be6e1668d1aab0adc0250826f#rd",
+    "create_time": 1715148852,
+    "update_time": 1715148851
+  },
+  {
+    "aid": "2651204899_5",
+    "appmsgid": 2651204899,
+    "from": "InfoQ",
+    "title": "AWS S3 \u672a\u6388\u6743\u8bf7\u6c42\u8ba1\u8d39\u95ee\u9898\uff1a\u7a7a\u7684 S3 \u5b58\u50a8\u6876\u53ef\u80fd\u4f1a\u5927\u5e45\u589e\u52a0\u6210\u672c",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651204899&idx=5&sn=deff6019fb6cf191493c200b030bc6f4&chksm=bdbbd5708acc5c66175f9e9bb02021db296ffcd8f0cded29909fb80d20c45943e91a6fa41281#rd",
+    "create_time": 1715148852,
+    "update_time": 1715148851
+  },
+  {
     "aid": "2651204763_1",
     "appmsgid": 2651204763,
     "from": "InfoQ",
