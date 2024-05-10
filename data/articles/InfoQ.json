@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651205008_1",
+    "appmsgid": 2651205008,
+    "from": "InfoQ",
+    "title": "\u7845\u8c37\u89c6\u91ce+\u4e2d\u56fd\u5b9e\u8df5\uff0c\u6c47\u805a\u5168\u7403\u9876\u5c16\u6280\u672f\u7684 AI \u79d1\u6280\u76db\u4f1a\uff0c\u66f4\u6709\u751f\u6210\u5f0f AI \u9ed1\u79d1\u6280\u4e0a\u624b\u4f53\u9a8c\u3001\u851a\u6765\u8bd5\u9a7e\u7b49\u4f60\u6765\uff01| AICon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651205008&idx=1&sn=b1ea7666a666b722bc21cef4681cadec&chksm=bdbbd5c38acc5cd546ee914d070e0be772691c5cdc33eafd208a94eeeb111a0105dcb0fa9639#rd",
+    "create_time": 1715232149,
+    "update_time": 1715232600
+  },
+  {
+    "aid": "2651205008_2",
+    "appmsgid": 2651205008,
+    "from": "InfoQ",
+    "title": "\u7206\u53d1\u5f0f\u589e\u957f\u4e1a\u52a1\u7684\u9ad8\u53ef\u7528\u67b6\u6784\u4f18\u5316\u4e4b\u8def",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651205008&idx=2&sn=cd7301a2b47b06637f3b36f3d5a08037&chksm=bdbbd5c38acc5cd52304813d404fa3b864b371807125bb982ef47829b5fea14e294dd1d25f80#rd",
+    "create_time": 1715232149,
+    "update_time": 1715232600
+  },
+  {
+    "aid": "2651205008_3",
+    "appmsgid": 2651205008,
+    "from": "InfoQ",
+    "title": "\u8f6f\u8003\u5907\u8003\u4e0d\u518d\u96be\uff0c\u514d\u8d39\u8d44\u6599\u5305\u5e26\u4f60\u4e00\u6b21\u901a\u5173\uff01| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651205008&idx=3&sn=988d0ea0d9abec69d0fdc69cbafe6f8e&chksm=bdbbd5c38acc5cd532adec63e4afa63e4c6e1e990ee6a2b18b190baea8ae1340970bae4656fd#rd",
+    "create_time": 1715232149,
+    "update_time": 1715232600
+  },
+  {
+    "aid": "2651205008_4",
+    "appmsgid": 2651205008,
+    "from": "InfoQ",
+    "title": "\u5982\u4f55\u4f7f\u7528\u591a\u4e2a GitHub \u5e10\u6237",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651205008&idx=4&sn=e8fac7e8470ec076c5c56f4e82b04eef&chksm=bdbbd5c38acc5cd575705601787011e83849f33b52d8cc9b30189661679542676f52944bc297#rd",
+    "create_time": 1715232149,
+    "update_time": 1715232600
+  },
+  {
+    "aid": "2651205008_5",
+    "appmsgid": 2651205008,
+    "from": "InfoQ",
+    "title": "Confluent Cloud for Apache Flink\u6b63\u5f0f\u53d1\u5e03\uff0c\u4e0d\u4e45\u5c06\u589e\u52a0AI\u7279\u6027",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651205008&idx=5&sn=57514210b66a0cceb31a2f3628ef1fd5&chksm=bdbbd5c38acc5cd56811eb3c5ca89599ae357a343311f5c52c7717b29753ec98abc2696cf2df#rd",
+    "create_time": 1715232149,
+    "update_time": 1715232600
+  },
+  {
     "aid": "2651204899_1",
     "appmsgid": 2651204899,
     "from": "InfoQ",
