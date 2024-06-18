@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651209336_1",
+    "appmsgid": 2651209336,
+    "from": "InfoQ",
+    "title": "\u4e03\u5e74\u6beb\u65e0\u6210\u679c\uff0c2.5 \u4ebf\u6fb3\u5143\u6253\u4e86\u6c34\u6f02\uff01\u6fb3\u5927\u5229\u4e9a\u8bc1\u5238\u4ea4\u6613\u6240\u5f97\u5230\u7684\u6559\u8bad\uff1a\u4f01\u4e1a\u533a\u5757\u94fe\u4ece\u6765\u90fd\u6ca1\u6709\u4efb\u4f55\u610f\u4e49",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651209336&idx=1&sn=98c6f0e616f8e03e34de349fa49370af&chksm=bdbbc62b8acc4f3ddd064fcf32703f0006b9c4f9c3ffaf479d76d6e73a92b44290c336facfe3#rd",
+    "create_time": 1718599031,
+    "update_time": 1718602200
+  },
+  {
+    "aid": "2651209336_2",
+    "appmsgid": 2651209336,
+    "from": "InfoQ",
+    "title": "AGI \u5927\u8fa9\u8bba\uff01\u6768\u690d\u9e9f\uff1a\u65e0\u9700\u5b9a\u4e49\uff0c\u674e\u5927\u6d77\uff1a\u96f6\u8fb9\u9645\u6210\u672c\uff0c\u738b\u5c0f\u5ddd\uff1a\u9020\u533b\u751f\uff1f\u5f20\u9e4f\uff1a\u662f\u4fe1\u5ff5\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651209336&idx=2&sn=7741bcc7d8fe8d4f4fa62fc7ff96e369&chksm=bdbbc62b8acc4f3dfdbca32a07c4dde18caed25a65ebdc60638fd1ca8fa75e0a3f5b83707e68#rd",
+    "create_time": 1718599031,
+    "update_time": 1718602200
+  },
+  {
+    "aid": "2651209336_3",
+    "appmsgid": 2651209336,
+    "from": "InfoQ",
+    "title": "\u6709\u770b\u5934\uff013 \u5206\u949f\u901f\u89c8 4 \u5927\u4eae\u70b9\uff0c\u7a00\u571f\u5f00\u53d1\u8005\u5927\u4f1a\u4e0d\u5bb9\u9519\u8fc7 | Q\u63a8\u8350",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651209336&idx=3&sn=fc8b9d48b41a890df7348211ab2a4358&chksm=bdbbc62b8acc4f3d18ae6f92f3116572488bdc29054f8a78f4c7e323473f5bc78185aec06c66#rd",
+    "create_time": 1718599031,
+    "update_time": 1718602200
+  },
+  {
+    "aid": "2651209336_4",
+    "appmsgid": 2651209336,
+    "from": "InfoQ",
+    "title": "\u9762\u5bf9\u5343\u4ebf\u89c4\u6a21\u7684\u6570\u636e\u5e93\u5e02\u573a\uff0c\u5f00\u53d1\u8005\u5982\u4f55\u9009\u62e9\u7b26\u5408\u4e1a\u52a1\u573a\u666f\u7684\u6570\u636e\u5e93\uff1f| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651209336&idx=4&sn=b0561bae6572ac183f30e6f4984a55bb&chksm=bdbbc62b8acc4f3dd8dd6b9b5b9868f9d32d1353db51e678f2649e0566bef704ee6259dad3de#rd",
+    "create_time": 1718599031,
+    "update_time": 1718602200
+  },
+  {
+    "aid": "2651209336_5",
+    "appmsgid": 2651209336,
+    "from": "InfoQ",
+    "title": "Yandex \u5f00\u6e90 LLM \u8bad\u7ec3\u5de5\u5177\uff0c\u53ef\u8282\u7701\u9ad8\u8fbe 20% \u7684 GPU \u8d44\u6e90",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651209336&idx=5&sn=e0e340cedbd2c87d91c5045a368c67b5&chksm=bdbbc62b8acc4f3d72084eb420db393b8807408f8575e7c9c727632f95e63c7b1c4d42242c4c#rd",
+    "create_time": 1718599031,
+    "update_time": 1718602200
+  },
+  {
     "aid": "2651209261_1",
     "appmsgid": 2651209261,
     "from": "InfoQ",
