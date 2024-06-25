@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651210125_1",
+    "appmsgid": 2651210125,
+    "from": "InfoQ",
+    "title": "OpenAI \u7a81\u7136\u6536\u8d2d\u5b9e\u65f6\u5206\u6790\u6570\u636e\u516c\u53f8\uff0c\u4f20\u7edf\u6570\u636e\u5e93\u5382\u5546\uff1a\u5feb\u6765\uff0cOpenAI \u53c8\u5e26\u6211\u4eec\u73a9\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210125&idx=1&sn=cadf8d453c7c4a8469dc7b4fe7a1db4b&chksm=bdbbb9de8acc30c8f5b18c362d7553ceb7c286df88f83bb6d04f9d1857d9399a8e95a8cb252f#rd",
+    "create_time": 1719214873,
+    "update_time": 1719214872
+  },
+  {
+    "aid": "2651210125_2",
+    "appmsgid": 2651210125,
+    "from": "InfoQ",
+    "title": "\u89e3\u7801RAG\uff1a\u667a\u8c31 RAG \u6280\u672f\u7684\u63a2\u7d22\u4e0e\u5b9e\u8df5",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210125&idx=2&sn=185954af3d679b2167b4a1200d742b71&chksm=bdbbb9de8acc30c8a0ffea4e190f8c80bbbd8f148d8ee6ee5eca5f311a256d92c34378701d3e#rd",
+    "create_time": 1719214873,
+    "update_time": 1719214872
+  },
+  {
+    "aid": "2651210125_3",
+    "appmsgid": 2651210125,
+    "from": "InfoQ",
+    "title": "\u589e\u5f3a Mock \u670d\u52a1\u5668\uff1a\u4e00\u79cd\u57fa\u4e8e UI \u7684\u65b9\u5f0f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210125&idx=3&sn=6ab44a55a7ae2e6cc0598417b70d5ebf&chksm=bdbbb9de8acc30c85b78d0b6047d10a3243b39a0ec43e6bc37661a472719e6eb2a220939b273#rd",
+    "create_time": 1719214873,
+    "update_time": 1719214872
+  },
+  {
+    "aid": "2651210125_4",
+    "appmsgid": 2651210125,
+    "from": "InfoQ",
+    "title": "\u5982\u4f55\u5feb\u901f\u638c\u63e1 Prompt \u6838\u5fc3\u6280\u5de7\u4e0e GPT \u6280\u672f\u7406\u8bba\uff1f| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210125&idx=4&sn=dc202806aa8d2b4e96cdd32650a37cd5&chksm=bdbbb9de8acc30c8221ce5faca52b6ac6bb85d75547646dc61643637a148addca086f14da1b8#rd",
+    "create_time": 1719214873,
+    "update_time": 1719214872
+  },
+  {
+    "aid": "2651210125_5",
+    "appmsgid": 2651210125,
+    "from": "InfoQ",
+    "title": "Slack \u7ed3\u5408 AST \u548c LLM \u81ea\u52a8\u8f6c\u6362 15000 \u4e2a\u5355\u5143\u6d4b\u8bd5\uff0c\u6210\u529f\u7387\u8fbe 80%",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210125&idx=5&sn=0d6a15a9b7103ae265a8bd7bfdc7328b&chksm=bdbbb9de8acc30c8671323b99b412a60a808452e704bd0e6e5ccbc78d218b4e6f0a316be7e29#rd",
+    "create_time": 1719214873,
+    "update_time": 1719214872
+  },
+  {
     "aid": "2651209930_1",
     "appmsgid": 2651209930,
     "from": "InfoQ",
