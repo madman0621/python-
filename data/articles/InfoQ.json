@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651210187_1",
+    "appmsgid": 2651210187,
+    "from": "InfoQ",
+    "title": "\u8054\u521b\u7528 ChatGPT \u5199\u7684\u4e00\u884c\u4ee3\u7801\u8ba9\u516c\u53f8\u635f\u5931\u4e0a\u4e07\u7f8e\u5143\uff01\u7f51\u53cb\uff1a\u8001\u677f\u81ea\u5df1\u5199\u7684\uff0c\u627e\u4e0d\u5230\u4eba\u80cc\u9505\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210187&idx=1&sn=a01995f26670c37859ef1dbe0cc469ac&chksm=bdbbb9988acc308e5e402d7932ef1289a88774480cc76173e0057e9d5aab561ebff898a9bb76#rd",
+    "create_time": 1719289437,
+    "update_time": 1719293400
+  },
+  {
+    "aid": "2651210187_2",
+    "appmsgid": 2651210187,
+    "from": "InfoQ",
+    "title": "\u5929\u5f18\u57fa\u91d1\uff1aAI Agent \u5728\u91d1\u878d\u573a\u666f\u4e0b\u7684\u65b0\u5e94\u7528",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210187&idx=2&sn=27db67c7f6fa9940da1766edde67c3da&chksm=bdbbb9988acc308e92ad036f1db8a8d1b49a7d9e90f07a43a6423c08e9fb581f4b2213cb4122#rd",
+    "create_time": 1719289437,
+    "update_time": 1719293400
+  },
+  {
+    "aid": "2651210187_3",
+    "appmsgid": 2651210187,
+    "from": "InfoQ",
+    "title": "\u201c\u6280\u672f\u6545\u969c\u201d\u80cc\u523a\u5df4\u83f2\u7279\uff0c\u91d1\u878d\u5927\u6a21\u578b\u5230\u5e95\u9760\u4e0d\u9760\u8c31\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210187&idx=3&sn=a8093beec5775f2d3ef48ef047e87208&chksm=bdbbb9988acc308e9931745cee711235761dc81c24acadc84ef052a3d53255c09256eaef9efc#rd",
+    "create_time": 1719289437,
+    "update_time": 1719293400
+  },
+  {
+    "aid": "2651210187_4",
+    "appmsgid": 2651210187,
+    "from": "InfoQ",
+    "title": "\u68c0\u7d22\u589e\u5f3a\u751f\u6210\uff1a\u9769\u547d\u6027\u6280\u672f\u8fd8\u662f\u8fc7\u5ea6\u627f\u8bfa\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210187&idx=4&sn=c2015612ea490c9ad72aa8dd0a9955c8&chksm=bdbbb9988acc308eb041da0d7233d900ccda97b753bd38146803c277d2f308b9825d21ea4bf2#rd",
+    "create_time": 1719289437,
+    "update_time": 1719293400
+  },
+  {
+    "aid": "2651210187_5",
+    "appmsgid": 2651210187,
+    "from": "InfoQ",
+    "title": "\u81ea\u52a8\u5316\u6d4b\u8bd5\u5de5\u5177 JetBrains Aqua IDE \u6b63\u5f0f\u53d1\u5e03",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210187&idx=5&sn=e5443bdcfa7d27bc5a94a3de959dc8e3&chksm=bdbbb9988acc308e127f09e7d36e6626ff36714f9e012d2aa6b9873f62d3015b832eafaaa05b#rd",
+    "create_time": 1719289437,
+    "update_time": 1719293400
+  },
+  {
     "aid": "2651210125_1",
     "appmsgid": 2651210125,
     "from": "InfoQ",
