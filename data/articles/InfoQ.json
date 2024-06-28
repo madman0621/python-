@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651210435_1",
+    "appmsgid": 2651210435,
+    "from": "InfoQ",
+    "title": "\u4e00\u7fa4\u9876\u5c16\u641c\u7d22\u4eba\u624d\u5982\u4f55 2 \u4e2a\u6708\u51fa\u8d27\uff0c\u8fd8\u628a GPU \u5229\u7528\u7387\u5e72\u5230 60%\uff01\u63ed\u79d8\u767e\u5ddd\u667a\u80fd\u7814\u53d1\u5927\u6a21\u578b\u8fd9\u4e00\u5e74",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210435&idx=1&sn=5a5c8cdc3f0689b4735d03befc03dfc0&chksm=bdbbba908acc3386a43cd226f862e43ab3ea246480279dd9ac83346a56ca58b8904a6f660d29#rd",
+    "create_time": 1719471349,
+    "update_time": 1719471348
+  },
+  {
+    "aid": "2651210435_2",
+    "appmsgid": 2651210435,
+    "from": "InfoQ",
+    "title": "AI \u6fc0\u6218\u8fdb\u5165\u4e0b\u534a\u573a\uff0c\u201c\u63a8\u7406\u201d\u8fd8\u5377\u5f97\u52a8\u5417\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210435&idx=2&sn=6503f2d3db62166d74a79f1e5ec0529b&chksm=bdbbba908acc3386bbdd88461ba7c3fed925f9600268e3542aa59c1e85a049ea47431ca8b763#rd",
+    "create_time": 1719471349,
+    "update_time": 1719471348
+  },
+  {
+    "aid": "2651210435_3",
+    "appmsgid": 2651210435,
+    "from": "InfoQ",
+    "title": "25 \u5e74\u8f6f\u4ef6\u5f00\u53d1\u7ecf\u9a8c\u8001\u53f8\u673a\u544a\u8bc9\u4f60\uff1a\u5982\u4f55\u7528\u751f\u6210\u5f0f AI \u505a\u9879\u76ee\u7ba1\u7406\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210435&idx=3&sn=4483dd63e81995a87270154e84a579dc&chksm=bdbbba908acc3386a0f2d1018c77e3cc0ced364ecde8365cdec785a6ce5784912bb08cdbe30e#rd",
+    "create_time": 1719471349,
+    "update_time": 1719471348
+  },
+  {
+    "aid": "2651210435_4",
+    "appmsgid": 2651210435,
+    "from": "InfoQ",
+    "title": "\u7a33\u5b9a\u3001\u7701\u94b1\u7684 ClickHouse \u8bfb\u5199\u5206\u79bb\u65b9\u6848\uff1a\u57fa\u4e8e JuiceFS \u7684\u4e3b\u4ece\u67b6\u6784\u5b9e\u8df5",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210435&idx=4&sn=d76c361cc6ed88ea4a2d949dedd9db2c&chksm=bdbbba908acc338627dab5803cee8ee07f40498587af827d4393f2bdc8b5f8d87111f68a1db2#rd",
+    "create_time": 1719471349,
+    "update_time": 1719471348
+  },
+  {
+    "aid": "2651210435_5",
+    "appmsgid": 2651210435,
+    "from": "InfoQ",
+    "title": "JEP 456\uff1a\u51c6\u5907\u5220\u9664 Unsafe \u4e2d\u7684\u5185\u5b58\u8bbf\u95ee\u65b9\u6cd5",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651210435&idx=5&sn=9d3b9e1819fe74c5a253062ba7a823e4&chksm=bdbbba908acc3386825838f86602be7e8f8f0f384b6b83bf2694e9dce066ffc9d4acaf2c41de#rd",
+    "create_time": 1719471349,
+    "update_time": 1719471348
+  },
+  {
     "aid": "2651210364_1",
     "appmsgid": 2651210364,
     "from": "InfoQ",
