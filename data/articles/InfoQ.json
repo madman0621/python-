@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651211649_1",
+    "appmsgid": 2651211649,
+    "from": "InfoQ",
+    "title": "69 \u5c81\u7684 Java \u4e4b\u7236\u9000\u4f11\u4e86\uff01\u8fd1\u4ebf\u4eba\u56e0\u4ed6\u53d7\u76ca",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651211649&idx=1&sn=757553f2f53cbba17f05c5fbee2ee32c&chksm=bdbbbfd28acc36c44973c995a28bfadc25b2910af30c8edbef2d8f7136d7d2430a03be8882f7#rd",
+    "create_time": 1720501989,
+    "update_time": 1720503000
+  },
+  {
+    "aid": "2651211649_2",
+    "appmsgid": 2651211649,
+    "from": "InfoQ",
+    "title": "\u4e0d\u53ef\u9519\u8fc7\uff012024 \u53ef\u4fe1\u6570\u636e\u5e93\u53d1\u5c55\u5927\u4f1a\u53c2\u4f1a\u653b\u7565\u8bf7\u67e5\u6536\uff01| Q\u63a8\u8350",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651211649&idx=2&sn=bf9a81fced4297896d46d6fee39c2782&chksm=bdbbbfd28acc36c4bd6d3bad44a8b722f0de24ccd53067d256acf054390438009bf7337bdf84#rd",
+    "create_time": 1720501989,
+    "update_time": 1720503000
+  },
+  {
+    "aid": "2651211649_3",
+    "appmsgid": 2651211649,
+    "from": "InfoQ",
+    "title": "\u96f6\u5c31\u4e1a\u4fdd\u969c\u3001\u5168\u5929\u7cbe\u795e\u201c\u9177\u5211\u201d\uff01ChatGPT \u7c7b\u4ea7\u54c1\u80cc\u540e 80% \u8d21\u732e\u8005\uff0c\u65f6\u85aa 1.16 \u7f8e\u5143\uff0c\u4f46\u4e5f\u6ca1\u5f97\u9009",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651211649&idx=3&sn=7cb61b32b9583f5c1003dfe77693a12c&chksm=bdbbbfd28acc36c4eaff6313babc0d6229e36dc90d4aa5cf6aef927d33cb7efe3894e40dd48b#rd",
+    "create_time": 1720501989,
+    "update_time": 1720503000
+  },
+  {
+    "aid": "2651211649_4",
+    "appmsgid": 2651211649,
+    "from": "InfoQ",
+    "title": "\u4ece\u4e13\u5bb6\u667a\u80fd\u4f53\u8c08\u8d77\uff0c\u804a\u804a\u91d1\u878d\u4e1a\u5982\u4f55\u7528\u597d\u5927\u6a21\u578b\u8fd9\u628a\u201c\u5229\u5203\u201d | \u76f4\u64ad\u9884\u544a",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651211649&idx=4&sn=ed044d169c8774a0c99080638d9e6d4b&chksm=bdbbbfd28acc36c43d906852a6c4859ed98dedee47573bad58153fc6ace081eec8e117666e4e#rd",
+    "create_time": 1720501989,
+    "update_time": 1720503000
+  },
+  {
+    "aid": "2651211649_5",
+    "appmsgid": 2651211649,
+    "from": "InfoQ",
+    "title": "Java\u8fd1\u671f\u65b0\u95fb\uff1aJakarta EE 11-M4\u3001MicroProfile\u3001InfoQ \u5f00\u53d1\u5cf0\u4f1a\u3001Commonhaus\u57fa\u91d1\u4f1a",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651211649&idx=5&sn=78b9435229ee4b913871f5f57a8ab0ea&chksm=bdbbbfd28acc36c4126133c7a5157639453493379a787f86e20ac80ffd9da6b91378c3f8d934#rd",
+    "create_time": 1720501989,
+    "update_time": 1720503000
+  },
+  {
     "aid": "2651211500_1",
     "appmsgid": 2651211500,
     "from": "InfoQ",
