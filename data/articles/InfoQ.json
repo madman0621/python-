@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651212730_1",
+    "appmsgid": 2651212730,
+    "from": "InfoQ",
+    "title": "\u201c\u6211\u53ea\u60f3\u5f53\u4e91\u8ba1\u7b97\u5de5\u7a0b\u5e08\uff0c\u4e0d\u60f3\u5f53 GenAI \u5de5\u7a0b\u5e08\u201d",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212730&idx=1&sn=6b57677ae0a5db0dc9f4bca882dcf663&chksm=bdbbb3e98acc3affcb606b595f5ab034d62f5d51654497b2f5cf39e9169d3598cb8bbe69dc84#rd",
+    "create_time": 1721203991,
+    "update_time": 1721203991
+  },
+  {
+    "aid": "2651212730_2",
+    "appmsgid": 2651212730,
+    "from": "InfoQ",
+    "title": "\u4ece OpenAI \u6536\u8d2d\u5b9e\u65f6\u5206\u6790\u6570\u636e\u516c\u53f8\u770b\u672a\u6765\u6570\u636e\u5e93\u957f\u4ec0\u4e48\u6837\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212730&idx=2&sn=a48cd8681b9b6442e7c075bdd515c939&chksm=bdbbb3e98acc3aff031d73ef7a989ed24a1d24c668aea2b2596106b1ea5cffce0267cc0ee0df#rd",
+    "create_time": 1721203991,
+    "update_time": 1721203991
+  },
+  {
+    "aid": "2651212730_3",
+    "appmsgid": 2651212730,
+    "from": "InfoQ",
+    "title": "\u524d\u6cbf\u667a\u80fd\u4f53\u6280\u672f\u5927\u63ed\u79d8\uff1a\u5fae\u8f6f\u3001\u817e\u8baf\u3001\u7f51\u6613\u548c MILA \u7814\u7a76\u6240\u7684\u5b9e\u8df5\u6848\u4f8b\uff0c\u4e0d\u5bb9\u9519\u8fc7\uff5cAICon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212730&idx=3&sn=8f89dfe083e7b7a368a30fad4840b551&chksm=bdbbb3e98acc3affacfec860cec94769a4c2ac69cf179a420fd32401e8a575b83553de41f9ac#rd",
+    "create_time": 1721203991,
+    "update_time": 1721203991
+  },
+  {
+    "aid": "2651212730_4",
+    "appmsgid": 2651212730,
+    "from": "InfoQ",
+    "title": "\u7279\u6717\u666e 80 \u540e\u7ade\u9009\u642d\u6863\u652f\u6301 AI \u5f00\u6e90\u8a00\u8bba\uff0c\u8d62\u5f97\u79d1\u6280\u5708\u597d\u8bc4\uff01\u7f51\u53cb\uff1a\u5982\u679c\u60f3\u8ba9\u5f00\u53d1\u4eba\u5458\u652f\u6301\u4f60\uff0c\u5c31\u575a\u6301",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212730&idx=4&sn=53dcac7c13cdb15ba7869c2e0d1d10df&chksm=bdbbb3e98acc3aff33b0cd9acbb230260c78ad23dc7f8690da9fd4033c1de409e5542f5766c1#rd",
+    "create_time": 1721203991,
+    "update_time": 1721203991
+  },
+  {
+    "aid": "2651212730_5",
+    "appmsgid": 2651212730,
+    "from": "InfoQ",
+    "title": "Java \u8fd1\u671f\u65b0\u95fb\uff1aProject Leyden \u65e9\u671f\u8bbf\u95ee\u6784\u5efa\u7248\u672c\u3001LangChain4j\u3001JReleaser\u3001Groovy",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212730&idx=5&sn=9a751e0c324e1e5380e6520b13f94b27&chksm=bdbbb3e98acc3afff9b2243c5fc109ddae6e36d3500ddbed5d77af6148eb73806e265d2348aa#rd",
+    "create_time": 1721203991,
+    "update_time": 1721203991
+  },
+  {
     "aid": "2651212558_1",
     "appmsgid": 2651212558,
     "from": "InfoQ",
