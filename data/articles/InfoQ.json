@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651212885_1",
+    "appmsgid": 2651212885,
+    "from": "InfoQ",
+    "title": "\u5f00\u6e90\u72ec\u89d2\u517d GitLab \u8d70\u4e0a\u201c\u5356\u8eab\u201d\u8def\uff01\u524d\u5de5\u7a0b\u5e08\u62c6\u53f0\uff1a\u8d5a\u94b1\u7684\u4e1a\u52a1\u4e0d\u597d\u597d\u8fd0\u8425\uff0c\u5f00\u53d1\u4e86\u4e00\u5806\u6ca1\u7528\u7684\u529f\u80fd",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212885&idx=1&sn=4520535b234b2dee271f2d6066f1ca5c&chksm=bdbbb4068acc3d103ce02d0a886b34397b2c60753294744f89f3867215a386f05754f716a799#rd",
+    "create_time": 1721288321,
+    "update_time": 1721288321
+  },
+  {
+    "aid": "2651212885_2",
+    "appmsgid": 2651212885,
+    "from": "InfoQ",
+    "title": "2024 \u53ef\u4fe1\u6570\u636e\u5e93\u53d1\u5c55\u5927\u4f1a\u5706\u6ee1\u843d\u5e55\uff0c\u5171\u63a2\u6570\u636e\u5e93\u6280\u672f\u65b0\u672a\u6765\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212885&idx=2&sn=549d49f7a28610e48e49cbe7c178d00d&chksm=bdbbb4068acc3d1090e229fb105cfa602dff1869ab49cd0bdf70c1a8c91ee3d2ee5a23494c6a#rd",
+    "create_time": 1721288321,
+    "update_time": 1721288321
+  },
+  {
+    "aid": "2651212885_3",
+    "appmsgid": 2651212885,
+    "from": "InfoQ",
+    "title": "\u522b\u627e\u5566\uff01AIGC+\u91d1\u878d\u573a\u666f\u7684\u7edd\u4f73\u6848\u4f8b\u90fd\u5728\u8fd9\uff01| FCon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212885&idx=3&sn=314595624765d233cebbfd57cb94485e&chksm=bdbbb4068acc3d10deea3f9eaf53456a3f12bb246652db8098400e6da11efc44abff1ef772f9#rd",
+    "create_time": 1721288321,
+    "update_time": 1721288321
+  },
+  {
+    "aid": "2651212885_4",
+    "appmsgid": 2651212885,
+    "from": "InfoQ",
+    "title": "\u56fe\u7075\u5956\u6570\u636e\u5e93\u5927\u5e08 Stonebraker \u5e08\u5f92\u5bf9\u6570\u636e\u5e93\u8fd1 20 \u5e74\u53d1\u5c55\u4e0e\u5c55\u671b\u7684 2 \u4e07\u5b57\u8bba\u6587",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212885&idx=4&sn=a54d9ca1847752e7f61c8dd5bc25e6ac&chksm=bdbbb4068acc3d10bbf8b80494a4215fda1307ec65838c0814eb068fbf1439f8aa6116c50e59#rd",
+    "create_time": 1721288321,
+    "update_time": 1721288321
+  },
+  {
+    "aid": "2651212885_5",
+    "appmsgid": 2651212885,
+    "from": "InfoQ",
+    "title": "Google Cloud \u5728\u9884\u89c8\u7248\u4e2d\u5f15\u5165\u4e86\u7528\u4e8e\u4e91\u5b58\u50a8\u7684\u5206\u5c42\u547d\u540d\u7a7a\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651212885&idx=5&sn=d70d90637066721b18d4ae5d8486ba88&chksm=bdbbb4068acc3d1073b0c71ea56eec9762937af77d3a8fc4cfdeac0b8050d094fed6c7dce76c#rd",
+    "create_time": 1721288321,
+    "update_time": 1721288321
+  },
+  {
     "aid": "2651212730_1",
     "appmsgid": 2651212730,
     "from": "InfoQ",
