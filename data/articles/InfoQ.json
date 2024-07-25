@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651213464_1",
+    "appmsgid": 2651213464,
+    "from": "InfoQ",
+    "title": "\u65b0\u664b\u5f00\u6e90\u9876\u6d41\u6a21\u578b Llama 3.1 \u88ab\u5f00\u53d1\u8005\u8d5e\u7206\uff01\u5c0f\u624e\u62ff\u82f9\u679c\u201c\u5f00\u5200\u201d\u53cd\u5bf9\u95ed\u6e90\u5382\u5546\uff1aAI \u4e0d\u8981\u201c\u82f9\u679c\u7a0e\u201d\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651213464&idx=1&sn=27a781f7fedd969ca235ef038377c7fb&chksm=bdbbb6cb8acc3fdd3c61f26ae6432ac3ebc10190ffe0dc066ee601e28237a3ee90f3911b1688#rd",
+    "create_time": 1721800850,
+    "update_time": 1721800849
+  },
+  {
+    "aid": "2651213464_2",
+    "appmsgid": 2651213464,
+    "from": "InfoQ",
+    "title": "\u4e1a\u6280\u878d\u5408\u96be\u3001ROI \u4e0d\u5212\u7b97\uff1a\u91d1\u878d\u5927\u6a21\u578b\u843d\u5730\u7684\u4e24\u5927\u56f0\u5883\u6709\u89e3\u5417\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651213464&idx=2&sn=2fdad3299022cac5f214ea224f268d1f&chksm=bdbbb6cb8acc3fdd65eabb38d0f5c78a1a0d8d10f80b7e72cb97c414e8395a0f41686e7c63e6#rd",
+    "create_time": 1721800850,
+    "update_time": 1721800849
+  },
+  {
+    "aid": "2651213464_3",
+    "appmsgid": 2651213464,
+    "from": "InfoQ",
+    "title": "\u4eba\u5de5\u667a\u80fd\u5982\u4f55\u52a9\u529b\u4e66\u5199\u201c\u6570\u5b57\u91d1\u878d\u201d\u5927\u6587\u7ae0",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651213464&idx=3&sn=bfeee266fbac9f12bfcd6b878334cb22&chksm=bdbbb6cb8acc3fdd7aa5704ddac6065407121a33df5e4fea7105aff994d8644d217007bb0ce9#rd",
+    "create_time": 1721800850,
+    "update_time": 1721800849
+  },
+  {
+    "aid": "2651213464_4",
+    "appmsgid": 2651213464,
+    "from": "InfoQ",
+    "title": "Rich Harris \u627f\u8bfa\uff1a\u4f7f\u7528 Svelte 5.0 \u4f60\u5c06\u7f16\u5199\u66f4\u5c11\u7684\u4ee3\u7801",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651213464&idx=4&sn=cc88b0dca35c595a53599168bc731620&chksm=bdbbb6cb8acc3fddf6fb5fa0db5de3240eae5d5185cf85cd44bd83cdbebd08f7e8f9627d3937#rd",
+    "create_time": 1721800850,
+    "update_time": 1721800849
+  },
+  {
+    "aid": "2651213464_5",
+    "appmsgid": 2651213464,
+    "from": "InfoQ",
+    "title": "Java\u65b0\u95fb\u6c47\u603b\uff1aJDK 24\u66f4\u65b0\u3001Spring Framework\u3001Piranha Cloud\u3001Gradle 8.9",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651213464&idx=5&sn=ca87e79a2e8f28c47a2c56a5b2539f0a&chksm=bdbbb6cb8acc3fdd90851338a6682a30a7b13d8ba0a39a4b790be6ae653ba2778d1729f2f287#rd",
+    "create_time": 1721800850,
+    "update_time": 1721800849
+  },
+  {
     "aid": "2651213293_1",
     "appmsgid": 2651213293,
     "from": "InfoQ",
