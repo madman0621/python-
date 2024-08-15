@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651215652_1",
+    "appmsgid": 2651215652,
+    "from": "InfoQ",
+    "title": "\u624d 12 \u4e07\u5e76\u53d1\u7528\u6237\u5728\u7ebf\u5c31\u76f4\u63a5\u5d29\u6e83\uff1f\u9a6c\u65af\u514b\u76f4\u64ad\u6210\u201c\u5927\u578b\u7ffb\u8f66\u73b0\u573a\u201d\uff0c\u4e13\u5bb6\uff1a\u201c\u7f51\u7edc\u653b\u51fb\u201d\u8bf4\u6cd5\u7ad9\u4e0d\u4f4f\u811a",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215652&idx=1&sn=f88af29e9bc6e6dd042dac770b899c39&chksm=bdbbaf778acc2661330c58d0611631711ccab05a9f05df5f15a5bb9b38527e5c081856d8341b#rd",
+    "create_time": 1723620092,
+    "update_time": 1723620092
+  },
+  {
+    "aid": "2651215652_2",
+    "appmsgid": 2651215652,
+    "from": "InfoQ",
+    "title": "\u767e\u5ea6\u51af\u666f\u8f89\uff1a\u4ece\u6570\u636e\u6e05\u6d17\u5230\u5b89\u5168\u56f4\u680f\uff0c\u6df1\u5ea6\u89e3\u6790\u5927\u6a21\u578b\u539f\u751f\u5b89\u5168\u6784\u5efa",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215652&idx=2&sn=d8e00cbb83dacbb54ba054d1dd7cf91d&chksm=bdbbaf778acc26610ef4ea318eaecb0c6c0a76dc6140fbf3c568a7d9c8919beadd6386ca73dd#rd",
+    "create_time": 1723620092,
+    "update_time": 1723620092
+  },
+  {
+    "aid": "2651215652_3",
+    "appmsgid": 2651215652,
+    "from": "InfoQ",
+    "title": "\u8c46\u5305\u5927\u6a21\u578b\u652f\u6301\u5b9e\u65f6\u8bed\u97f3\u901a\u8bdd\u4e86\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215652&idx=3&sn=b16ec5e00a0057d517ea007190a3f353&chksm=bdbbaf778acc2661af321d2c306b05e91a3cf8e888dd50fe3e58c8e744cc0d6702b63bfc56a6#rd",
+    "create_time": 1723620092,
+    "update_time": 1723620092
+  },
+  {
+    "aid": "2651215652_4",
+    "appmsgid": 2651215652,
+    "from": "InfoQ",
+    "title": "\u82f9\u679c\u516c\u53f8\u5f00\u6e90\u540c\u6001\u52a0\u5bc6\u5e93",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215652&idx=4&sn=b9bd01baf612b7a20d6e6d57d245c988&chksm=bdbbaf778acc2661fd5b4d126348577295b31f1d2a969d506b951205473ef22d2a9308d40716#rd",
+    "create_time": 1723620092,
+    "update_time": 1723620092
+  },
+  {
+    "aid": "2651215652_5",
+    "appmsgid": 2651215652,
+    "from": "InfoQ",
+    "title": "Java \u8fd1\u671f\u65b0\u95fb\uff1aHazelcast 5.5\u3001Loom\u3001Hibernate ORM\u548cHibernate Validation",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215652&idx=5&sn=320af086e8eda78b988125a66a861e8e&chksm=bdbbaf778acc266145eaa9514fb673cc92a082a0a91445cfedd75f1c154966c483868a48e992#rd",
+    "create_time": 1723620092,
+    "update_time": 1723620092
+  },
+  {
     "aid": "2651215576_1",
     "appmsgid": 2651215576,
     "from": "InfoQ",
