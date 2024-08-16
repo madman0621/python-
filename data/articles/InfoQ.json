@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651215708_1",
+    "appmsgid": 2651215708,
+    "from": "InfoQ",
+    "title": "\u521a\u521a\uff0cGitHub \u906d\u9047\u5168\u7403\u5b95\u673a\uff0cCopilot \u4e5f\u762b\u75ea\u4e86\uff01\u5f00\u53d1\u8005\uff1a\u4eca\u5929\u53ef\u4ee5\u5149\u660e\u6b63\u5927\u6478\u9c7c\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215708&idx=1&sn=d25da034dfbcc5187b3b29d12cfdcb25&chksm=bdbbaf0f8acc2619e3544fa621fa6752baa35d71356f05acb8f0e0c2837afab77f06678d1c8f#rd",
+    "create_time": 1723689550,
+    "update_time": 1723689549
+  },
+  {
+    "aid": "2651215708_2",
+    "appmsgid": 2651215708,
+    "from": "InfoQ",
+    "title": "AI \u4e0e\u5927\u6a21\u578b\u5982\u4f55\u52a9\u529b\u91d1\u878d\u7814\u53d1\u6548\u80fd\u6700\u5927\u5316\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215708&idx=2&sn=7d7fb3902660bb31d97f59369b193186&chksm=bdbbaf0f8acc2619e6f7b17af45a333ed45c4de50dab40be89283352c828536093a4eb15ce6c#rd",
+    "create_time": 1723689550,
+    "update_time": 1723689549
+  },
+  {
+    "aid": "2651215708_3",
+    "appmsgid": 2651215708,
+    "from": "InfoQ",
+    "title": "\u5b9e\u64cd\u4e864\u4e2a AI \u5927\u6a21\u578b\u9879\u76ee\u843d\u5730\uff0c\u6211\u53c8\u884c\u4e86\uff01| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215708&idx=3&sn=d315c3cba3e75d463ca40f3330600727&chksm=bdbbaf0f8acc261961300c938d8dcd393724cc7009c162ab7715e7cec0f868c9ab17ca32da85#rd",
+    "create_time": 1723689550,
+    "update_time": 1723689549
+  },
+  {
+    "aid": "2651215708_4",
+    "appmsgid": 2651215708,
+    "from": "InfoQ",
+    "title": "\u4e3a openEuler \u6ce8\u5165\u7075\u9b42\uff1a\u4e0e\u5f00\u53d1\u8005\u5171\u8bdd\u201c\u534f\u4f5c\u3001\u6311\u6218\u4e0e\u751f\u6001\u201d",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215708&idx=4&sn=2bc4803ec22a248cb3b8636159ba4515&chksm=bdbbaf0f8acc2619c258c9b7e41ab809fd4751be501b37267055f0b05813656da1a012a35f8f#rd",
+    "create_time": 1723689550,
+    "update_time": 1723689549
+  },
+  {
+    "aid": "2651215708_5",
+    "appmsgid": 2651215708,
+    "from": "InfoQ",
+    "title": "Slack \u53d1\u5e03\u7528\u4e8e Kubernetes StatefulSet \u90e8\u7f72\u7684 Operator",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651215708&idx=5&sn=cb4328d52d09881dfcd60420e0cec894&chksm=bdbbaf0f8acc26194b8b890c99abb35b634470159b1d14d851b17cc966e4819b1b86599429a5#rd",
+    "create_time": 1723689550,
+    "update_time": 1723689549
+  },
+  {
     "aid": "2651215652_1",
     "appmsgid": 2651215652,
     "from": "InfoQ",
