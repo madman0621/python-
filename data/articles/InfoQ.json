@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651217197_1",
+    "appmsgid": 2651217197,
+    "from": "InfoQ",
+    "title": "2000 \u591a\u540d\u5e94\u5c4a\u751f\u88ab\u5370\u5ea6 IT \u5de8\u5934\u201c\u57f9\u8bad\u201d\u591a\u5e74\u4e0d\u7ed9\u53d1\u5de5\u8d44\uff0c\u5728\u804c\u5458\u5de5\u5410\u69fd\uff1a\u6211\u4eec\u5de5\u4f5c14\u5c0f\u65f6\u54ea\u8fd8\u6709\u5de5\u4f5c\u7559\u7ed9\u522b\u4eba",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217197&idx=1&sn=6e6ff296b1bd56dbb377b8af45267079&chksm=bdbba57e8acc2c684dbb1c440930cb10bdddc0075fc999fe7651bd4f83854a793768d5c6ecc9#rd",
+    "create_time": 1724820040,
+    "update_time": 1724820039
+  },
+  {
+    "aid": "2651217197_2",
+    "appmsgid": 2651217197,
+    "from": "InfoQ",
+    "title": "\u5927\u6d6a\u6dd8\u6c99\u4e0b\u7684\u91d1\u878d\u667a\u53d8\uff1aAGI\u5165\u573a\uff0c\u5de8\u5934\u4eec\u5df2\u7ecf\u5403\u5230\u4e86\u7b2c\u4e00\u6ce2\u7ea2\u5229",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217197&idx=2&sn=fe25b08dfd9ec7bf6264602421fd7e06&chksm=bdbba57e8acc2c6873daecb5249a67eaf98f590015fecd4a17344066d33fff70ee25470dc902#rd",
+    "create_time": 1724820040,
+    "update_time": 1724820039
+  },
+  {
+    "aid": "2651217197_3",
+    "appmsgid": 2651217197,
+    "from": "InfoQ",
+    "title": "AI\u6280\u672f\u5982\u4f55\u6df1\u5165\u5404\u884c\u5404\u4e1a\uff1fIntel AI Summit\u4e13\u573a\u5168\u6808\u843d\u5730\u5b9e\u8df5\u5206\u4eab\u4e28AICon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217197&idx=3&sn=93dc4d4f914e4f85892920ab6ec099cd&chksm=bdbba57e8acc2c681d0e8ab0d06e6b2f54b6d2c760832d543c2f297f2a0e3b1dce6e87c1aa90#rd",
+    "create_time": 1724820040,
+    "update_time": 1724820039
+  },
+  {
+    "aid": "2651217197_4",
+    "appmsgid": 2651217197,
+    "from": "InfoQ",
+    "title": "AICon \u4e0a\u6d77\u7ad9 2024 \u4f18\u79c0\u51fa\u54c1\u4eba\u4e0e\u660e\u661f\u8bb2\u5e08\u540d\u5355\u63ed\u6653\uff0cRAG\u3001Agent\u3001\u5de5\u5177\u94fe\u4e13\u573a\u6700\u53d7\u6b22\u8fce",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217197&idx=4&sn=4f0b4b5ed2a18ac71a248a1275f5cbda&chksm=bdbba57e8acc2c68d2787fac9b351b659cc81dc67e9047d5f8b439998a8bcea8586d10546af5#rd",
+    "create_time": 1724820040,
+    "update_time": 1724820039
+  },
+  {
+    "aid": "2651217197_5",
+    "appmsgid": 2651217197,
+    "from": "InfoQ",
+    "title": "MariaDB \u53d1\u5e03\u5f00\u6e90\u5411\u91cf\u7684\u9884\u89c8\u529f\u80fd\uff0c\u81f4\u529b\u4e8e\u6210\u4e3a\u9ed8\u8ba4\u7684 MySQL \u65b9\u6848",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217197&idx=5&sn=b8aa3b06c08b95af0cd3a8edccd3afd7&chksm=bdbba57e8acc2c6832be7b50b6d5c112469c2bfd4bb6293789bff29ae50e16f698944396d18a#rd",
+    "create_time": 1724820040,
+    "update_time": 1724820039
+  },
+  {
     "aid": "2651217076_1",
     "appmsgid": 2651217076,
     "from": "InfoQ",
