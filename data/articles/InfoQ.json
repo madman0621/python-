@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651217299_1",
+    "appmsgid": 2651217299,
+    "from": "InfoQ",
+    "title": "\u53ea coding \u5df2 out\uff01\u5fae\u8f6f\u5de5\u7a0b\u5e08\u5982\u4f55\u6253\u8d62 AI \u201c\u7ffb\u8eab\u4ed7\u201d\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217299&idx=1&sn=f05c95d6c39445e69c2596fe6e61a04b&chksm=bdbba5c08acc2cd6709999c63955378ddd89035466b71e1e0aa46c11da616982b3e08db5a206#rd",
+    "create_time": 1724911579,
+    "update_time": 1724911800
+  },
+  {
+    "aid": "2651217299_2",
+    "appmsgid": 2651217299,
+    "from": "InfoQ",
+    "title": "\u8f6f\u8003\u62a5\u540d\u5f00\u542f\uff0c\u5982\u4f55\u786e\u4fdd\u201c\u4e00\u628a\u8fc7\u201d\uff1f| \u6781\u5ba2\u65f6\u95f4",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217299&idx=2&sn=8b7812aebc6b2b4c26c632ec74179240&chksm=bdbba5c08acc2cd66dfb65173ba0c4630763380231648ea9957f3d6ddb0988fd0444005d8809#rd",
+    "create_time": 1724911579,
+    "update_time": 1724911800
+  },
+  {
+    "aid": "2651217299_3",
+    "appmsgid": 2651217299,
+    "from": "InfoQ",
+    "title": "AI\u00a0\u6d6a\u6f6e\u4e0b\u5e94\u7528\u5f00\u53d1\u7684\u201c\u534e\u5c71\u8bba\u5251\u201d | QCon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217299&idx=3&sn=c6696b3e58dbb3f0a0991c6faf4ce03f&chksm=bdbba5c08acc2cd69f749ee9e5db4569e0e2ff1064b92dc837427a28923d7b8c84f613454c46#rd",
+    "create_time": 1724911579,
+    "update_time": 1724911800
+  },
+  {
+    "aid": "2651217299_4",
+    "appmsgid": 2651217299,
+    "from": "InfoQ",
+    "title": "\u522b\u8ba9 Kubernetes \u4e0a\u7684 Apache Kafka \u8ba9\u4f60\u4e22\u6389\u5de5\u4f5c",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217299&idx=4&sn=8deac9931f1632499235ecb46ea6f870&chksm=bdbba5c08acc2cd665419cd735c8e1d0f24bf3d2565b11df28737f730e3d51addcb22cb7ba96#rd",
+    "create_time": 1724911579,
+    "update_time": 1724911800
+  },
+  {
+    "aid": "2651217299_5",
+    "appmsgid": 2651217299,
+    "from": "InfoQ",
+    "title": "Java \u8fd1\u671f\u65b0\u95fb\uff1aSpring 6.2-M7\u3001Project Loom\u3001Payara Platform\u3001Gradle 8.10",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217299&idx=5&sn=cb2a62ab0bc7538c9d15e15d413d6dbd&chksm=bdbba5c08acc2cd671e5cecc43a7372c2e62f1bd07d3b000be421f469ecc6d39881368ef21df#rd",
+    "create_time": 1724911579,
+    "update_time": 1724911800
+  },
+  {
     "aid": "2651217197_1",
     "appmsgid": 2651217197,
     "from": "InfoQ",
