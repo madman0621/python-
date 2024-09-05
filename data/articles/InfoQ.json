@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651217807_1",
+    "appmsgid": 2651217807,
+    "from": "InfoQ",
+    "title": "\u53c8\u4e00\u6b3e AI \u7f16\u7801\u5de5\u5177\u706b\u51fa\u5708\uff01OpenAI \u6295\u8d44\u3001\u78be\u538b VS Code\u30018 \u5c81\u5973\u5b69\u7528\u5b83 45 \u5206\u949f\u5c31\u80fd\u6784\u5efa\u4e00\u6b3e\u804a\u5929\u673a\u5668\u4eba",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217807&idx=1&sn=21da543e011310f5f3fa8a95fc1fcddd&chksm=bdbba7dc8acc2eca8bde0d5e51262498bf2398c94b5181909be3979f4b10dd451409936fb5a4#rd",
+    "create_time": 1725424981,
+    "update_time": 1725424980
+  },
+  {
+    "aid": "2651217807_2",
+    "appmsgid": 2651217807,
+    "from": "InfoQ",
+    "title": "\u5e73\u5b89\u8bc1\u5238\u73b0\u8c61\u7ea7\u5e94\u7528\uff1a\u590d\u7528\u7387\u9ad8\u8fbe191.44%\u7684\u5fae\u5361\u7247\u5e73\u53f0\u662f\u5982\u4f55\u6784\u5efa\u7684",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217807&idx=2&sn=ea94d0b94f77566db1f540b19acafa28&chksm=bdbba7dc8acc2ecad28c783c50b3c371f795a7fed8f801c29ddbfad6cd616c70112c553208b9#rd",
+    "create_time": 1725424981,
+    "update_time": 1725424980
+  },
+  {
+    "aid": "2651217807_3",
+    "appmsgid": 2651217807,
+    "from": "InfoQ",
+    "title": "\u67b6\u6784\u8fdb\u5316\u4e4b\u9053\uff1a\u63ed\u79d8\u817e\u8baf\u3001\u8682\u8681\u3001\u5feb\u624b\u3001B\u7ad9\u7684\u5b9e\u6218\u6f14\u8fdb\u4e4b\u8def | QCon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217807&idx=3&sn=4904af583a11699cab6dd38e9013cce5&chksm=bdbba7dc8acc2ecae4c925daf4ffab4681e528af98a89bd188d07737bdcda1b0cb9ad998b970#rd",
+    "create_time": 1725424981,
+    "update_time": 1725424980
+  },
+  {
+    "aid": "2651217807_4",
+    "appmsgid": 2651217807,
+    "from": "InfoQ",
+    "title": "\u6570\u636e\u5e93\u9876\u4f1a VLDB 2024 \u8bba\u6587\u89e3\u8bfb\uff5cResLake: \u5b57\u8282\u8df3\u52a8\u591a\u673a\u623f\u8d44\u6e90\u7edf\u4e00\u7ba1\u7406\u7cfb\u7edf\u89e3\u6790",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217807&idx=4&sn=7cb72c72ba904edd37f8b656c662acd1&chksm=bdbba7dc8acc2eca6ceb112073a98de10d6610d8f80c3a576040f0d13bed63cb2476ac3da47c#rd",
+    "create_time": 1725424981,
+    "update_time": 1725424980
+  },
+  {
+    "aid": "2651217807_5",
+    "appmsgid": 2651217807,
+    "from": "InfoQ",
+    "title": "Figma \u4ece ECS \u8fc1\u79fb\u5230 Kubernetes\uff0c\u4ee5\u4ece CNCF \u751f\u6001\u7cfb\u7edf\u4e2d\u53d7\u76ca\u5e76\u964d\u4f4e\u6210\u672c",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651217807&idx=5&sn=bca4ccd77911cf8454102e59c560714e&chksm=bdbba7dc8acc2ecafa45b44469af0cd2d55b7690568ff336271566e8bd83e88bf56fb8bcb255#rd",
+    "create_time": 1725424981,
+    "update_time": 1725424980
+  },
+  {
     "aid": "2651217700_1",
     "appmsgid": 2651217700,
     "from": "InfoQ",
