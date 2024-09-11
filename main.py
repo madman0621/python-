@@ -347,10 +347,10 @@ if __name__ == '__main__':
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
 
 
-        for infoItem in weChatConfig:
-            getLastWeChatArticle(infoItem)
-        print('数据抓取完成')
-        getDayInfo()
+        # for infoItem in weChatConfig:
+        #     getLastWeChatArticle(infoItem)
+        # print('数据抓取完成')
+        # getDayInfo()
 
     except Exception as e:
         log('error:', str(e))
