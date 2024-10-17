@@ -28983,6 +28983,33 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247500305&idx=1&sn=785891cbd76480bd860c00a7cea7fe6e&chksm=ce45d780f9325e962a3204d6b2a4fa2297681fbe94d1e4de509688da55f303f994e1f357a366#rd",
         "create_time": 1728984172,
         "update_time": 1728984172
+      },
+      {
+        "aid": "2651621479_1",
+        "appmsgid": 2651621479,
+        "from": "\u524d\u7aef\u5927\u5168",
+        "title": "\u9762\u4e8611\u4e2a\u524d\u7aef\u5f00\u53d1\uff0c\u53d1\u73b0\u4e86\u4e00\u4e2a\u901a\u75c5\u2026",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621479&idx=1&sn=d9d680c6979dc9568cc9d735e0304b62&chksm=80225fa6b755d6b0644eeb8a60512cfca5e86a51d1317095599d6df2584efc907296c7e2819d#rd",
+        "create_time": 1728997983,
+        "update_time": 1729044600
+      },
+      {
+        "aid": "2651621479_2",
+        "appmsgid": 2651621479,
+        "from": "\u524d\u7aef\u5927\u5168",
+        "title": "10\u5206\u949f\u901f\u6210\uff1a\u8f7b\u677e\u642d\u5efa\u524d\u7aefmonorepo\u67b6\u6784\u4e0eCI/CD\u81ea\u52a8\u5316\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621479&idx=2&sn=bbbe15e411ed2552d58e4f025d65cbe0&chksm=80225fa6b755d6b01d0fd37aaf9031de98ca3218fae445f3f89eacf407958384875b594ffc41#rd",
+        "create_time": 1728997983,
+        "update_time": 1729044600
+      },
+      {
+        "aid": "2247500316_1",
+        "appmsgid": 2247500316,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "\u518d\u89c1\u963f\u91cc\uff0c\u4f60\u597d\u5b57\u8282\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247500316&idx=1&sn=c34c5382c28e22319ace08aa60f83701&chksm=ce45d78df9325e9b3720f3e7f7dcd3beffaac0e3e069a9d222e4337720e6127305423a106567#rd",
+        "create_time": 1728988181,
+        "update_time": 1729044600
       }
     ],
     [
@@ -29003,9 +29030,109 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651273471&idx=2&sn=0179657f88f93addd6371e449c7ef3f7&chksm=bd48e17b8a3f686de5f52ee58dabfdd5d6476645f1abd66f7409098ba335e75a2079f071c819#rd",
         "create_time": 1729034898,
         "update_time": 1729036800
+      },
+      {
+        "aid": "2651222307_1",
+        "appmsgid": 2651222307,
+        "from": "InfoQ",
+        "title": "\u82f9\u679c\u4e00\u7bc7\u8bba\u6587\u628a\u5927\u6a21\u578b\u5708\u5b50\u5f97\u7f6a\u4e86\uff01\u201c\u8e29\u7740\u201dOpenAI\u3001Meta\u5927\u6a21\u578b\u4e0a\u4f4d\uff0cGary Marcus\uff1a\u65e9\u5c31\u8bf4\u5927\u6a21\u578b\u4e0d\u4f1a\u63a8\u7406\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=1&sn=2450161fcebc8d8b8b16bcd660b9119f&chksm=bdbb89708acc006627aa41120787188843d95470d70a24f9545e80e4f3063a676d8ee02373c7#rd",
+        "create_time": 1729059889,
+        "update_time": 1729059889
+      },
+      {
+        "aid": "2651222307_2",
+        "appmsgid": 2651222307,
+        "from": "InfoQ",
+        "title": "\u963f\u91cc\u8bb8\u6653\u658c\uff1a\u6211\u56e2\u961f\u91cc AI \u66ff\u4ee3\u7a0b\u5e8f\u5458\u8fd8\u4e0d\u73b0\u5b9e\uff0c AI \u7f16\u7a0b\u5de5\u5177\u6ca1\u4ea7\u751f\u8d28\u53d8",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=2&sn=e800566ff2822a9a86b85cfe26127938&chksm=bdbb89708acc00668eec64e11d0fd6221bbb66378f4cb2a43be963f8bb33bc5d504ed09c6d2f#rd",
+        "create_time": 1729059889,
+        "update_time": 1729059889
+      },
+      {
+        "aid": "2651222307_3",
+        "appmsgid": 2651222307,
+        "from": "InfoQ",
+        "title": "LINUX\u5e73\u53f0\u9ad8\u7ea7\u8c03\u8bd5\u548c\u4f18\u5316\uff082024\u5317\u4eac\u7ad9\uff09",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=3&sn=57e7f4e6ded3dc70ab93b776f25ad355&chksm=bdbb89708acc00662e03d409e2f7c4307bb892424bbb24fce41447891cb62f82e77a181b087e#rd",
+        "create_time": 1729059889,
+        "update_time": 1729059889
+      },
+      {
+        "aid": "2651222307_4",
+        "appmsgid": 2651222307,
+        "from": "InfoQ",
+        "title": "AI \u6559\u7236 Yann LeCun \u6012\u6279\uff1a\u4eca\u5929\u7684\u5927\u6a21\u578b\u6bd4\u732b\u8fd8\u7b28\uff0c\u5149\u4f1a\u9884\u6d4b\u6587\u672c\u6839\u672c\u6ca1\u5728\u63a8\u7406\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=4&sn=ba50ced7e3d3ce48475706c4fff3bb83&chksm=bdbb89708acc0066da76c1237b67b7ebaca55718c0aa162972a0f3c8fb7a6ea35fdbdc38b33f#rd",
+        "create_time": 1729059889,
+        "update_time": 1729059889
+      },
+      {
+        "aid": "2651222307_5",
+        "appmsgid": 2651222307,
+        "from": "InfoQ",
+        "title": "\u79fb\u9664\u4e86\u5185\u7f6e\u7684\u4e91\u63d0\u4f9b\u5546\u4ee3\u7801\u540e\uff0cKubernetes 1.31 \u73b0\u5728\u6210\u4e3a\u4e86\u201c\u771f\u6b63\u4e2d\u7acb\u7684\u4f9b\u5e94\u5546\u5e73\u53f0\u201d",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=5&sn=503db57406839e7fed537046971deddc&chksm=bdbb89708acc0066257a59828ea0440d8316ae7cae2c2a2314971be057e95638a04ebdabedd6#rd",
+        "create_time": 1729059889,
+        "update_time": 1729059889
+      },
+      {
+        "aid": "2247525401_1",
+        "appmsgid": 2247525401,
+        "from": "\u524d\u7aef\u4e4b\u5dc5",
+        "title": "\u5bf9\u8bddMotiff\u5999\u591a\u8d75\u8587\uff1a\u5927\u6a21\u578b\u5728UI\u8bbe\u8ba1\u5de5\u5177\u4e2d\u7684\u4ea4\u4e92\u6311\u6218\u4e0e\u673a\u9047",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525401&idx=1&sn=2134333d2840357cd446ab4aebee9945&chksm=f952d15ace25584cef7b27da1e893ad9975a431cbffc1af77f3e79aa5a2519a5b478cc92b16c#rd",
+        "create_time": 1729050446,
+        "update_time": 1729062000
+      },
+      {
+        "aid": "2247500320_1",
+        "appmsgid": 2247500320,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "\u7528\u6237\u81ea\u5df1\u5236\u9020\u4e86\u6027\u80fd\u95ee\u9898\uff0c\u8fd8\u602a\u6211\u524d\u7aef\u6ca1\u505a\u4f18\u5316\uff1f",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247500320&idx=1&sn=31f7efcad7f6a6e6232236d869a855f1&chksm=ce45d7b1f9325ea76cc8ca2924abca6df683e3182aab35a33f005324f6dc25a8490b22653534#rd",
+        "create_time": 1729091945,
+        "update_time": 1729125600
+      },
+      {
+        "aid": "2247519292_1",
+        "appmsgid": 2247519292,
+        "from": "\u652f\u4ed8\u5b9d\u4f53\u9a8c\u79d1\u6280",
+        "title": "2024 \u5ddd\u6e1d Web \u524d\u7aef\u5f00\u53d1\u6280\u672f\u4ea4\u6d41\u4f1a\u300c\u4e92\u8054\u300d\uff1a\u7b49\u4f60\u6765\u62a5\u540d\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247519292&idx=1&sn=c4b6a671e53868af73b54aff33f63be8&chksm=ce98e3d2f9ef6ac4257e13b1f9801b6df269c8fad301c6353fb29d8fa5a0626cf68b6a0423de#rd",
+        "create_time": 1729072479,
+        "update_time": 1729072478
+      },
+      {
+        "aid": "2650536511_1",
+        "appmsgid": 2650536511,
+        "from": "\u5927\u6dd8\u5b9d\u6280\u672f",
+        "title": "\u52a8\u6001\u91cf\u5316\uff1a\u5927\u6a21\u578b\u5728\u7aef\u4fa7CPU\u5feb\u901f\u63a8\u7406\u65b9\u6848",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536511&idx=1&sn=f0ecab1b909a366da6fcc496c39ba02a&chksm=83973227b4e0bb3111f860f8f3d1627ecfeaadceafd3520fc6b8f1d17a5c0e018468db23f90b#rd",
+        "create_time": 1729076682,
+        "update_time": 1729076682
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651273540_1",
+        "appmsgid": 2651273540,
+        "from": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "title": "\u3010\u7b2c3394\u671f\u3011\u300aFlutter CTO 2024\u62a5\u544a\u300b\u7684\u5173\u952e\u6d1e\u5bdf",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651273540&idx=1&sn=97d188f4edf0c7d0ddc498d69bcc94ec&chksm=bd48e0c08a3f69d66d5e6dffc145cb2d6c467dd286e018c5c9ccafbed72f613312186da12622#rd",
+        "create_time": 1729121769,
+        "update_time": 1729123200
+      },
+      {
+        "aid": "2651273540_2",
+        "appmsgid": 2651273540,
+        "from": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "title": "Flutter CTO \u62a5\u544a 2024.PDF",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651273540&idx=2&sn=791095f8b5cbe6a671e2c46d90ba78a8&chksm=bd48e0c08a3f69d610124cf2a7d0cc95c0850a169210e9030bf8c180d8c3a6907796cece3aba#rd",
+        "create_time": 1729121769,
+        "update_time": 1729123200
+      }
+    ],
     [],
     [],
     [],

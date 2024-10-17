@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651222307_1",
+    "appmsgid": 2651222307,
+    "from": "InfoQ",
+    "title": "\u82f9\u679c\u4e00\u7bc7\u8bba\u6587\u628a\u5927\u6a21\u578b\u5708\u5b50\u5f97\u7f6a\u4e86\uff01\u201c\u8e29\u7740\u201dOpenAI\u3001Meta\u5927\u6a21\u578b\u4e0a\u4f4d\uff0cGary Marcus\uff1a\u65e9\u5c31\u8bf4\u5927\u6a21\u578b\u4e0d\u4f1a\u63a8\u7406\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=1&sn=2450161fcebc8d8b8b16bcd660b9119f&chksm=bdbb89708acc006627aa41120787188843d95470d70a24f9545e80e4f3063a676d8ee02373c7#rd",
+    "create_time": 1729059889,
+    "update_time": 1729059889
+  },
+  {
+    "aid": "2651222307_2",
+    "appmsgid": 2651222307,
+    "from": "InfoQ",
+    "title": "\u963f\u91cc\u8bb8\u6653\u658c\uff1a\u6211\u56e2\u961f\u91cc AI \u66ff\u4ee3\u7a0b\u5e8f\u5458\u8fd8\u4e0d\u73b0\u5b9e\uff0c AI \u7f16\u7a0b\u5de5\u5177\u6ca1\u4ea7\u751f\u8d28\u53d8",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=2&sn=e800566ff2822a9a86b85cfe26127938&chksm=bdbb89708acc00668eec64e11d0fd6221bbb66378f4cb2a43be963f8bb33bc5d504ed09c6d2f#rd",
+    "create_time": 1729059889,
+    "update_time": 1729059889
+  },
+  {
+    "aid": "2651222307_3",
+    "appmsgid": 2651222307,
+    "from": "InfoQ",
+    "title": "LINUX\u5e73\u53f0\u9ad8\u7ea7\u8c03\u8bd5\u548c\u4f18\u5316\uff082024\u5317\u4eac\u7ad9\uff09",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=3&sn=57e7f4e6ded3dc70ab93b776f25ad355&chksm=bdbb89708acc00662e03d409e2f7c4307bb892424bbb24fce41447891cb62f82e77a181b087e#rd",
+    "create_time": 1729059889,
+    "update_time": 1729059889
+  },
+  {
+    "aid": "2651222307_4",
+    "appmsgid": 2651222307,
+    "from": "InfoQ",
+    "title": "AI \u6559\u7236 Yann LeCun \u6012\u6279\uff1a\u4eca\u5929\u7684\u5927\u6a21\u578b\u6bd4\u732b\u8fd8\u7b28\uff0c\u5149\u4f1a\u9884\u6d4b\u6587\u672c\u6839\u672c\u6ca1\u5728\u63a8\u7406\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=4&sn=ba50ced7e3d3ce48475706c4fff3bb83&chksm=bdbb89708acc0066da76c1237b67b7ebaca55718c0aa162972a0f3c8fb7a6ea35fdbdc38b33f#rd",
+    "create_time": 1729059889,
+    "update_time": 1729059889
+  },
+  {
+    "aid": "2651222307_5",
+    "appmsgid": 2651222307,
+    "from": "InfoQ",
+    "title": "\u79fb\u9664\u4e86\u5185\u7f6e\u7684\u4e91\u63d0\u4f9b\u5546\u4ee3\u7801\u540e\uff0cKubernetes 1.31 \u73b0\u5728\u6210\u4e3a\u4e86\u201c\u771f\u6b63\u4e2d\u7acb\u7684\u4f9b\u5e94\u5546\u5e73\u53f0\u201d",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651222307&idx=5&sn=503db57406839e7fed537046971deddc&chksm=bdbb89708acc0066257a59828ea0440d8316ae7cae2c2a2314971be057e95638a04ebdabedd6#rd",
+    "create_time": 1729059889,
+    "update_time": 1729059889
+  },
+  {
     "aid": "2651222143_1",
     "appmsgid": 2651222143,
     "from": "InfoQ",
