@@ -31000,6 +31000,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536702&idx=1&sn=872995b518c99b003e203551726241eb&chksm=839732e6b4e0bbf055fb762ab5943cee3855e79b65cad564941e02e1143c443c1274886a2fa4#rd",
         "create_time": 1730888431,
         "update_time": 1730888431
+      },
+      {
+        "aid": "2247514854_1",
+        "appmsgid": 2247514854,
+        "from": "\u524d\u7aef\u5f00\u53d1\u7231\u597d\u8005",
+        "title": "2024\u5f00\u53d1\u5c97\u4f4d\u73b0\u72b6\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUzNTk3MjE2Ng==&mid=2247514854&idx=1&sn=25f766adaef4d5656610113fabbee2e9&chksm=faffaacfcd8823d922419d2421347833b1beaccb88d26fe23dfbd12faae196f91a5fbd2d3d19#rd",
+        "create_time": 1730898718,
+        "update_time": 1730944800
+      },
+      {
+        "aid": "2247500892_1",
+        "appmsgid": 2247500892,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "\u817e\u8baf\u5ba3\u5e03\u5168\u5458\u8c03\u85aa\uff0c\u51c6\u5907\u51b2\u4e86\u2026.",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247500892&idx=1&sn=c56a86a3cb24b6c50f13a2fd3779da1f&chksm=ce45d1cdf93258db8be646ece76886188d6d72099a7adb59a9d914599b728c9b6db18272f01b#rd",
+        "create_time": 1730898909,
+        "update_time": 1730945400
       }
     ],
     [
@@ -31011,9 +31029,118 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651273935&idx=1&sn=ac3a3cb0f9ada2271f09a24c2dec94f3&chksm=bd48e34b8a3f6a5d040936e69ccdac4172c023bf4b89e2541ebaa1916dcc9a83aabc99e867ca#rd",
         "create_time": 1730935844,
         "update_time": 1730937600
+      },
+      {
+        "aid": "2651224532_1",
+        "appmsgid": 2651224532,
+        "from": "InfoQ",
+        "title": "\u5168\u7403\u8d85\u4e07\u4ebf\u4f7f\u7528\u91cf\u7684\u70ed\u95e8\u6570\u636e\u5e93\uff0c\u9996\u6b21\u88ab\u5927\u6a21\u578b\u63ea\u51fa\u4e86\u4e25\u91cd\u6f0f\u6d1e",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651224532&idx=1&sn=11a37a69be9ced000ef6f765595de4f1&chksm=bdbb81878acc089104c4b317f9fec504e732439e8ff9532ee1dbf15f35c0b56568bcec0e359d#rd",
+        "create_time": 1730959883,
+        "update_time": 1730959883
+      },
+      {
+        "aid": "2651224532_2",
+        "appmsgid": 2651224532,
+        "from": "InfoQ",
+        "title": "\u8d44\u6e90\u8282\u7701 81%\uff0c\u4f5c\u4e1a\u5e2e MySQL\u5343\u8868\u5165\u6e56\u4ed3\u5b9e\u8df5",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651224532&idx=2&sn=0f8daa196bd5dbbacb79b9e58815cff4&chksm=bdbb81878acc08914ede08ba7c098ac939ff8094afd0abfbacf4796b5b439ce1c2e34cfdc65d#rd",
+        "create_time": 1730959883,
+        "update_time": 1730959883
+      },
+      {
+        "aid": "2651224532_3",
+        "appmsgid": 2651224532,
+        "from": "InfoQ",
+        "title": "\u4eca\u5e74\u8fd9\u573a\u8d2d\u7269\u72c2\u6b22\uff0c\u201cAI\u542b\u91cf\u201d\u8d8a\u6765\u8d8a\u9ad8\uff01 | AICon\u5927\u4f1a\u91cd\u78c5\u8bae\u9898\u63ed\u79d8",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651224532&idx=3&sn=ff3d2457330b2df43bd0ea488d8a88f5&chksm=bdbb81878acc08914f0e1d32fb72d14e50a5cd9d9188c5551644a53f9128b3d8254382b02c48#rd",
+        "create_time": 1730959883,
+        "update_time": 1730959883
+      },
+      {
+        "aid": "2651224532_4",
+        "appmsgid": 2651224532,
+        "from": "InfoQ",
+        "title": "\u8c37\u6b4c\u8d85\u8fc7\u56db\u5206\u4e4b\u4e00\u4ee3\u7801\u7531 AI \u751f\u6210\u5931\u5b9e\uff1f\u5288\u67f4\u521a\u5439\u5b8c\u725b\uff0c\u81ea\u5bb6\u5458\u5de5\u5c31\u6765\u7ec4\u56e2\u201c\u6253\u5047\u201d\u4e86",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651224532&idx=4&sn=365d23a47ca58497c398db03b466c500&chksm=bdbb81878acc089131e637e00a60ac50a9f6d62b52a9b9292596a3011d270423868f60bd7a0f#rd",
+        "create_time": 1730959883,
+        "update_time": 1730959883
+      },
+      {
+        "aid": "2651224532_5",
+        "appmsgid": 2651224532,
+        "from": "InfoQ",
+        "title": "Java\u8fd1\u671f\u65b0\u95fb\uff1aJakarta EE 11\u3001JReleaser 1.15\u3001JHipster 8.7.3\u3001Quarkus3.16",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651224532&idx=5&sn=97f56cc2d669b127ecb4e23f9536dfee&chksm=bdbb81878acc0891bc3fc04e4da2f8066d66edcf43f4055540a3c7922b6b1dae1b6e704c28ad#rd",
+        "create_time": 1730959883,
+        "update_time": 1730959883
+      },
+      {
+        "aid": "2247525444_1",
+        "appmsgid": 2247525444,
+        "from": "\u524d\u7aef\u4e4b\u5dc5",
+        "title": "\u6587\u4ef6\u5e03\u5c40\u2260\u67b6\u6784\uff01\u6c14\u6124\u4e4b\u4f59\uff0c\u6211\u4e0d\u5f97\u4e0d\u8bf4\u7684\u524d\u7aef\u67b6\u6784\u771f\u76f8",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525444&idx=1&sn=299e6f11c7cfdbd3cf30eecf2f7c6703&chksm=f952d107ce2558112c5fa4e7a433320360cb76d2b06e9bb9cd8af144751863a63d4b1bb0f396#rd",
+        "create_time": 1730961870,
+        "update_time": 1730961870
+      },
+      {
+        "aid": "2247499091_1",
+        "appmsgid": 2247499091,
+        "from": "iCSS\u524d\u7aef\u8da3\u95fb",
+        "title": "\u524d\u7aef\u5de5\u7a0b\u5e08\u7684 AI DAY \u6765\u5566\uff0112 \u6708 7 \u65e5\uff0c\u53a6\u95e8\u89c1\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499091&idx=1&sn=bbe21f301b65890e7b619da6b09baf10&chksm=ce269ea5f95117b34f5bb7e715dda1bc399eb865a700fb0007824473d90e15d2e1edf45e8e46#rd",
+        "create_time": 1730985324,
+        "update_time": 1730985900
+      },
+      {
+        "aid": "2247514971_1",
+        "appmsgid": 2247514971,
+        "from": "\u524d\u7aef\u5f00\u53d1\u7231\u597d\u8005",
+        "title": "\u6211\u4eec\u56e2\u961f\u51b3\u5b9a\u653e\u5f03\u4f7f\u7528 VS Code\uff01\u8f6c\u800c\u5168\u9762\u62e5\u62b1 Cursor\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUzNTk3MjE2Ng==&mid=2247514971&idx=1&sn=9db03e6ac8d11e6d6d52b00730c28a66&chksm=faffab72cd882264e7bff3c52cb8ddda17344723cc5db871c3936a91d94f321b384bc6e13324#rd",
+        "create_time": 1730988678,
+        "update_time": 1731026700
+      },
+      {
+        "aid": "2247486468_1",
+        "appmsgid": 2247486468,
+        "from": "Galacean \u5f15\u64ce\u7231\u597d\u8005",
+        "title": "\u4eca\u5e74\u7684 1122 \u4f53\u9a8c\u6280\u672f\u65e5\u5c31\u8981\u6765\u4e86\uff0c\u8d76\u7d27\u62a5\u540d\u770b\u770b\uff1f",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzkyMTIzOTA1NQ==&mid=2247486468&idx=1&sn=5c6368315c03f56763b5ee26081b4502&chksm=c187e764f6f06e72b4456eed6f3ba3168a69f7554269e5c8b36b0e59f10cf64d5a49d32e560c#rd",
+        "create_time": 1730966129,
+        "update_time": 1730975100
+      },
+      {
+        "aid": "2247519298_1",
+        "appmsgid": 2247519298,
+        "from": "\u652f\u4ed8\u5b9d\u4f53\u9a8c\u79d1\u6280",
+        "title": "\u4eca\u5e74\u7684 1122 \u4f53\u9a8c\u6280\u672f\u65e5\u5c31\u8981\u6765\u4e86\uff0c\u8d76\u7d27\u62a5\u540d\u770b\u770b\uff1f",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247519298&idx=1&sn=3a47886b05f93df4dae29418d2a765f8&chksm=ce98e3acf9ef6aba6560c8aa5bc9ea3611bfeebc78c0fb58d4a571fc7a4a20face7dfc924633#rd",
+        "create_time": 1730952501,
+        "update_time": 1730952501
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247500896_1",
+        "appmsgid": 2247500896,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "Code Review \u8fd8\u662f\u5f88\u6709\u5fc5\u8981\u7684\uff01\u6211\u53d1\u73b0\u4e86\u51e0\u4e2a\u4ee3\u7801\u5c0f\u95ee\u9898",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247500896&idx=1&sn=a9cff5255df78747c13d396fcec6bbfe&chksm=ce45d1f1f93258e76b03d265788ed118ef2b878f0a46c4ef3e07b01f30f850821f71dc69a306#rd",
+        "create_time": 1731027209,
+        "update_time": 1731027209
+      },
+      {
+        "aid": "2651273956_1",
+        "appmsgid": 2651273956,
+        "from": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "title": "\u3010\u7b2c3412\u671f\u3011CSS \u7ec8\u4e8e\u5728 2024 \u5e74\u6dfb\u52a0\u4e86\u5782\u76f4\u5c45\u4e2d\u529f\u80fd",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651273956&idx=1&sn=8fc9c5a363227e82692aba4e96d75728&chksm=bd48e3608a3f6a7680aa79d2101274b2881e0916e845d7288bdab6c87a1d8570cafde46c439a#rd",
+        "create_time": 1731022291,
+        "update_time": 1731024000
+      }
+    ],
     [],
     [],
     [],
