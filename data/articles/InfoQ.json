@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651225367_1",
+    "appmsgid": 2651225367,
+    "from": "InfoQ",
+    "title": "\u592a\u8352\u8c2c\u4e86\uff01\u5343\u4eba\u516c\u53f8\u4e00\u5200\u5207\u7981\u7528 JetBrains\uff0c\u975e\u4fc4\u7c4d\u201c\u5907\u80ce\u201d VSCode \u4e0a\u4f4d",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651225367&idx=1&sn=f4af7f4fe8864bc37e1966d258acacb1&chksm=bdbb85448acc0c521d57b0ecb970cdeac54f756dd9f30166d444c9c5c55e61085ce0fff03769#rd",
+    "create_time": 1731563155,
+    "update_time": 1731563155
+  },
+  {
+    "aid": "2651225367_2",
+    "appmsgid": 2651225367,
+    "from": "InfoQ",
+    "title": "\u901a\u4e49\u7075\u7801 SWE-GPT\uff1a\u4ece \u9759\u6001\u4ee3\u7801\u5efa\u6a21 \u8fc8\u5411 \u8f6f\u4ef6\u5f00\u53d1\u8fc7\u7a0b\u957f\u94fe\u63a8\u7406",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651225367&idx=2&sn=7109f6111788abd1f72bdd55be691b8a&chksm=bdbb85448acc0c52161073cbbeca4fc461eda8e390a497d60e9aa20ce29f532e9ec94bd6c609#rd",
+    "create_time": 1731563155,
+    "update_time": 1731563155
+  },
+  {
+    "aid": "2651225367_3",
+    "appmsgid": 2651225367,
+    "from": "InfoQ",
+    "title": "RAG\u5728\u4f01\u4e1a\u843d\u5730\u7684\u96be\u70b9\u4e0e\u521b\u65b0 | AICon",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651225367&idx=3&sn=9a06adbecd5927027838764f2bd7f1d0&chksm=bdbb85448acc0c523f712a43fa5f002dcd73a7dd419b73af04e29a3d2efd2779768b34cb8725#rd",
+    "create_time": 1731563155,
+    "update_time": 1731563155
+  },
+  {
+    "aid": "2651225367_4",
+    "appmsgid": 2651225367,
+    "from": "InfoQ",
+    "title": "\u9002\u5e94\u6027\u54cd\u5e94\u65b9\u6cd5\u53ef\u5f39\u6027\u5904\u7406\u8f6f\u4ef6\u8fd0\u7ef4\u4e2d\u7684\u96be\u9898",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651225367&idx=4&sn=62000dc431f60cef3fc10663785cb2b1&chksm=bdbb85448acc0c5244358a996e4edc6eee34483cd444f0d225877f0539da932e48527af4102b#rd",
+    "create_time": 1731563155,
+    "update_time": 1731563155
+  },
+  {
+    "aid": "2651225367_5",
+    "appmsgid": 2651225367,
+    "from": "InfoQ",
+    "title": "Expedia \u5c06\u5927\u578b Cassandra \u96c6\u7fa4\u8fc1\u79fb\u81f3 ScyllaDB\uff0c\u5b9e\u73b0\u4e86\u96f6\u505c\u673a\u76ee\u6807",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651225367&idx=5&sn=92c06be3eb4df84cf31a27c1e25b3df3&chksm=bdbb85448acc0c52cf948cd1906aa4041cd18bab538b9f71b9b495c5ff748af4403999a9a3c2#rd",
+    "create_time": 1731563155,
+    "update_time": 1731563155
+  },
+  {
     "aid": "2651225259_1",
     "appmsgid": 2651225259,
     "from": "InfoQ",
