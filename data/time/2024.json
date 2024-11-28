@@ -32806,9 +32806,109 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274276&idx=2&sn=5073d2850dde68bfeee16be9912a0f28&chksm=bd48e5a08a3f6cb6c6ac3bbb159e120c3d1700c228eaa78057e39306c6f87f5346a03895dae0#rd",
         "create_time": 1732664873,
         "update_time": 1732665600
+      },
+      {
+        "aid": "2651226920_1",
+        "appmsgid": 2651226920,
+        "from": "InfoQ",
+        "title": "Redis \u75af\u72c2\u201c\u626b\u8361\u201d\u6240\u6709\u5f00\u6e90\u5e93\uff0c\u88ab\u793e\u533a\u7ef4\u62a4\u8005\u4eec\u9a82\u60e8\u4e86\uff01\u5b98\u65b9\u56de\u5e94\uff1a\u96c6\u4e2d\u7ba1\u7406\u529e\u5927\u4e8b",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651226920&idx=1&sn=c59708542be9b876b0ffacf472570d47&chksm=bdbb7b7b8accf26dbe6bc5c6aa799fdd69023f4c5f7fe1650f793bae471b92a67418296f7189#rd",
+        "create_time": 1732691100,
+        "update_time": 1732691100
+      },
+      {
+        "aid": "2651226920_2",
+        "appmsgid": 2651226920,
+        "from": "InfoQ",
+        "title": "\u201c\u4e3a\u4ec0\u4e48\u8bf4\u5927\u6a21\u578b\u53ef\u80fd\u662f\u8f6f\u4ef6\u5f00\u53d1\u7684\u6b7b\u80e1\u540c\uff1f\u201d",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651226920&idx=2&sn=b82acc02d9960f7bc9ef4641f1dd2bab&chksm=bdbb7b7b8accf26d9a3104b2055c120d3375e55e3273d4b5678a30348b2019bf4708c5b119b2#rd",
+        "create_time": 1732691100,
+        "update_time": 1732691100
+      },
+      {
+        "aid": "2651226920_3",
+        "appmsgid": 2651226920,
+        "from": "InfoQ",
+        "title": "Kotlin \u9996\u5e2d\u8bbe\u8ba1\u5e08\u8bbf\u8c08\uff1aKotlin \u4e0e  Java \u7684\u5dee\u8ddd\u6709\u591a\u5927\uff1f",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651226920&idx=3&sn=42325c0f2b688cd3326342089d96cbc9&chksm=bdbb7b7b8accf26d0511d178aa0d63c3baeaac822b912f879994423e4658ac77b4f44f03ecdf#rd",
+        "create_time": 1732691100,
+        "update_time": 1732691100
+      },
+      {
+        "aid": "2651226920_4",
+        "appmsgid": 2651226920,
+        "from": "InfoQ",
+        "title": "Pok\u00e9mon Go \u516c\u53f8\u6784\u5efa\u5927\u578b\u5730\u7406\u7a7a\u95f4\u6a21\u578b\uff0c\u73a9\u5bb6\u4e0d\u77e5\u4e0d\u89c9\u8d21\u732e\u4e86\u8bad\u7ec3\u6570\u636e",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651226920&idx=4&sn=f11cfd14bc5c047c6cc2ef2a8a211cb0&chksm=bdbb7b7b8accf26d0ba2f63866503db85b183afa78eb04ed3685c3fd2f491ce078ee7e656663#rd",
+        "create_time": 1732691100,
+        "update_time": 1732691100
+      },
+      {
+        "aid": "2651226920_5",
+        "appmsgid": 2651226920,
+        "from": "InfoQ",
+        "title": "Recall.ai \u901a\u8fc7\u6d88\u9664 WebSockets \u8282\u7701\u4e0a\u767e\u4e07\u7f8e\u5143\u7684 AWS \u8d39\u7528",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651226920&idx=5&sn=86beb041e20db6703e55b8df3c8cffce&chksm=bdbb7b7b8accf26d0036f86ccf404aa10ba8b71dab1d6776ed0fe58a4d173cfefefaf83b519d#rd",
+        "create_time": 1732691100,
+        "update_time": 1732691100
+      },
+      {
+        "aid": "2247515485_1",
+        "appmsgid": 2247515485,
+        "from": "\u524d\u7aef\u5f00\u53d1\u7231\u597d\u8005",
+        "title": "Vue \u6700\u5feb\uff0c\u4f46\u6211\u4eec\u56e2\u961f\u8fd8\u662f\u9009\u62e9\u62e5\u62b1 React \uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUzNTk3MjE2Ng==&mid=2247515485&idx=1&sn=769ab7bb6ff609f53bd2b17f35fcce85&chksm=faffad74cd882462f26cb1dc87ea967f9707669d19e8d24bd031cb6e6eeb4a2aa5ec71d8aaa4#rd",
+        "create_time": 1732722805,
+        "update_time": 1732753980
+      },
+      {
+        "aid": "2247501217_1",
+        "appmsgid": 2247501217,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "\u4e0d\u77e5\u9053\u524d\u7aef\u4ee3\u7801\u54ea\u91cc\u62a5\u9519\u4e86\uff1f\u6211\u6709\u4e03\u79cd\u65b9\u5f0f\u53bb\u76d1\u63a7\u5b83\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501217&idx=1&sn=d625be132c4ac9aefab0c03fdbf92af2&chksm=ce45d030f93259266cbedcd183d68837ea4a71927924855cfcd1fa5e3db3d5c1c3ba416baae9#rd",
+        "create_time": 1732715728,
+        "update_time": 1732754400
+      },
+      {
+        "aid": "2247519361_1",
+        "appmsgid": 2247519361,
+        "from": "\u652f\u4ed8\u5b9d\u4f53\u9a8c\u79d1\u6280",
+        "title": "\u901a\u5411\u8d5b\u535a\u672a\u6765\uff1aEchoMimicV2 \u534a\u8eab\u6570\u5b57\u4eba\u751f\u6210",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247519361&idx=1&sn=e7693cb3a9e92b8d5df042896e1fc9f9&chksm=ce98e36ff9ef6a7908810b2d6f68e8e8b84e7762d0600b96148c8818445b661d6e79b499a7f5#rd",
+        "create_time": 1732701158,
+        "update_time": 1732701158
+      },
+      {
+        "aid": "2650537209_1",
+        "appmsgid": 2650537209,
+        "from": "\u5927\u6dd8\u5b9d\u6280\u672f",
+        "title": "NeurIPS 2024 Spotlight | \u4e00\u79cd\u9ad8\u53ef\u63a7\u7ec6\u7c92\u5ea6\u591a\u53c2\u8003\u56fe\u7684\u4eba\u8138\u9762\u90e8\u5408\u6210\u65b9\u6848",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537209&idx=1&sn=6d968e3c6a6bd86a0a86814c778abad4&chksm=839734e1b4e0bdf7b6d8134f16693576150db07909f8997112b1dc6f99fe5e9964fa3f958dc6#rd",
+        "create_time": 1732707126,
+        "update_time": 1732707126
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651274287_1",
+        "appmsgid": 2651274287,
+        "from": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "title": "\u3010\u65e9\u9605\u3011GitHub Copilot Edits \u529f\u80fd\u8be6\u89e3",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bd48e5ab8a3f6cbde713139c465802353d174c63ca9eabe792860c5eed2560b83420edcc8321#rd",
+        "create_time": 1732750177,
+        "update_time": 1732752000
+      },
+      {
+        "aid": "2651274287_2",
+        "appmsgid": 2651274287,
+        "from": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "title": "\u3010\u56fe\u4e66\u3011AI\u8f85\u52a9\u7f16\u7a0b\u5165\u95e8\uff1a\u4f7f\u7528GitHub Copilot\u96f6\u57fa\u7840\u5f00\u53d1",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bd48e5ab8a3f6cbd11c9f84bb1e22f8f4d0a30a2de3e8e2f179fd49ea3c2211d8e9592088c38#rd",
+        "create_time": 1732750177,
+        "update_time": 1732752000
+      }
+    ],
     [],
     [],
     []
