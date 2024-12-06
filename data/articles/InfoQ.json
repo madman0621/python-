@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651227841_1",
+    "appmsgid": 2651227841,
+    "from": "InfoQ",
+    "title": "\u201c\u5377\u738b\u201d\u4e00\u6b21\u4e0a\u67b6\u767e\u4f59\u6b3e\u5927\u6a21\u578b\uff0c\u6539\u5199\u6e38\u620f\u89c4\u5219",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651227841&idx=1&sn=8b84cc887e39c029c26264c0d994d067&chksm=bdbb7e928accf784c9e3e566c9aed912e3eb3442ecdf6910150d5917c2bcac175e6d6d31e4eb#rd",
+    "create_time": 1733402873,
+    "update_time": 1733403300
+  },
+  {
+    "aid": "2651227841_2",
+    "appmsgid": 2651227841,
+    "from": "InfoQ",
+    "title": "\u4e91\u539f\u751f\u67b6\u6784\u4e0b\u4e2d\u95f4\u4ef6\u8054\u90a6\u9ad8\u53ef\u7528\u67b6\u6784\u5b9e\u8df5",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651227841&idx=2&sn=cd8427e8acfcbd83bfaeb8ed86c334c3&chksm=bdbb7e928accf784c394ec9d0b5192ce96e580719c1d67333313e09b2c5cb736c82186decb55#rd",
+    "create_time": 1733402873,
+    "update_time": 1733403300
+  },
+  {
+    "aid": "2651227841_3",
+    "appmsgid": 2651227841,
+    "from": "InfoQ",
+    "title": "30+ \u884c\u4e1a\u5927\u5496\uff0c\u63d0\u51fa\u4e86\u8fd9\u4e9b\u76f4\u51fb\u75db\u70b9\u7684 AI \u8bae\u9898",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651227841&idx=3&sn=70d27d165c366abdca7eee54131eaaaa&chksm=bdbb7e928accf784eba5e980b6122ed16320da1462c8de262b6725dc69da52eda840aac3f195#rd",
+    "create_time": 1733402873,
+    "update_time": 1733403300
+  },
+  {
+    "aid": "2651227841_4",
+    "appmsgid": 2651227841,
+    "from": "InfoQ",
+    "title": "\u88ab\u5b57\u8282\u7d22\u8d54 800 \u4e07\u5b9e\u4e60\u751f\u593a NeurIPS \u6700\u4f73\u8bba\u6587\uff0c\u8c46\u5305 team \u9080\u540c\u5c4a\u83b7\u5956\u4eba\u73b0\u573a chat\uff01\u7f51\u53cb\uff1a\u5b57\u8282\u8981\u94b1\u8fd8\u662f\u8981\u4eba\uff1f",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651227841&idx=4&sn=6387997c57a6e5cc722aefe41522b940&chksm=bdbb7e928accf784a5f909866f349193770a0154b974c175f7f7961ae6e033679015f3e9cd0f#rd",
+    "create_time": 1733402873,
+    "update_time": 1733403300
+  },
+  {
+    "aid": "2651227841_5",
+    "appmsgid": 2651227841,
+    "from": "InfoQ",
+    "title": "\u5434\u6069\u8fbe\u53d1\u5e03\u5f00\u6e90 Python \u5e93\uff0c\u4e00\u4e2a\u63a5\u53e3\u53ef\u8c03\u7528\u591a\u4e2a\u5927\u6a21\u578b",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651227841&idx=5&sn=f2919c87fe8c0b28e060d8186653168d&chksm=bdbb7e928accf78426a530e6f2b97db330692ec06726e0a0c35c514d95a7f0e3c597ee5de892#rd",
+    "create_time": 1733402873,
+    "update_time": 1733403300
+  },
+  {
     "aid": "2651227734_1",
     "appmsgid": 2651227734,
     "from": "InfoQ",
