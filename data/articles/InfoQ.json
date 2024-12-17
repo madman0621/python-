@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651228956_1",
+    "appmsgid": 2651228956,
+    "from": "InfoQ",
+    "title": "2024 \u5e74\u5ea6\u6280\u672f\u70ed\u8bcd\u6765\u88ad\uff0cAI \u5982\u4f55\u5728\u53ef\u63a7\u751f\u6210\u548c\u964d\u672c\u589e\u6548\u4e2d\u5bfb\u627e\u5e73\u8861",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651228956&idx=1&sn=5faebc63397842dd4e0cea85411b0e3a&chksm=bdbb734f8accfa59b0729ab0ae8d310cfcdb44d7e426a085903bdfce8aaed04af0b99b46cbdb#rd",
+    "create_time": 1734320730,
+    "update_time": 1734327000
+  },
+  {
+    "aid": "2651228956_2",
+    "appmsgid": 2651228956,
+    "from": "InfoQ",
+    "title": "Ilya Sutskever \u5728 NeurIPS 2024 \u7684\u6f14\u8bb2\uff1a\u9884\u8bad\u7ec3\u65f6\u4ee3\u5df2\u7ecf\u7ed3\u675f\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651228956&idx=2&sn=71b8cf964b89967f0080153c8f5340d5&chksm=bdbb734f8accfa59d5368c6cf0dd8bf3a28c91f053510419eb9497dd2fee6ddf5aa25e4c0840#rd",
+    "create_time": 1734320730,
+    "update_time": 1734327000
+  },
+  {
+    "aid": "2651228956_3",
+    "appmsgid": 2651228956,
+    "from": "InfoQ",
+    "title": "ChatGPT \u6309\u63d0\u793a\u8bcd\u6570\u79d2\u5b8c\u6210\u6e38\u620f\u5f00\u53d1\uff0c\u7a0b\u5e8f\u5458\u4eec\u8be5\u614c\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651228956&idx=3&sn=bdcb002fd830c27e8dd69af1a5993234&chksm=bdbb734f8accfa5938afb0aeb66e0f04e45a2eb956c932a9b264a5603d5de576bb04ac318091#rd",
+    "create_time": 1734320730,
+    "update_time": 1734327000
+  },
+  {
+    "aid": "2651228956_4",
+    "appmsgid": 2651228956,
+    "from": "InfoQ",
+    "title": "\u5927\u578b\u5f00\u53d1\u8005\u8c03\u67e5\u7ed3\u679c\uff1a\u54ea\u4e9b AI \u52a9\u624b\u6700\u53d7\u6b22\u8fce\uff1f\u4f7f\u7528 VR \u5934\u663e\u7f16\u7a0b\u5f00\u59cb\u6210\u4e3a\u8d8b\u52bf",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651228956&idx=4&sn=b58b3ed1af219a35f007c2fc5db8709d&chksm=bdbb734f8accfa5945bb41accd446a3e53d8d39b75e831d0951a931dda2baf64b3f17be78407#rd",
+    "create_time": 1734320730,
+    "update_time": 1734327000
+  },
+  {
+    "aid": "2651228956_5",
+    "appmsgid": 2651228956,
+    "from": "InfoQ",
+    "title": "Cloudflare \u5728 11\u6708\u53d1\u751f\u91cd\u5927\u6545\u969c\uff0c\u5bfc\u81f4\u65e5\u5fd7\u4e22\u5931",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651228956&idx=5&sn=11c7c8943931e5d5169a7811b1c0aea9&chksm=bdbb734f8accfa5910d7228fc5c5aca6f22131cefe39a9eb808b5b6523e5a063c76bd287707d#rd",
+    "create_time": 1734320730,
+    "update_time": 1734327000
+  },
+  {
     "aid": "2651228803_1",
     "appmsgid": 2651228803,
     "from": "InfoQ",
