@@ -35183,6 +35183,33 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537506&idx=1&sn=5a023293f7064660ea52a1fe7e5ced5d&chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd",
         "create_time": 1734955756,
         "update_time": 1734955756
+      },
+      {
+        "aid": "2651621685_1",
+        "appmsgid": 2651621685,
+        "from": "\u524d\u7aef\u5927\u5168",
+        "title": "\u5f3a\u70c8\u5efa\u8bae\u6240\u6709\u524d\u7aef\u5c3d\u5feb\u641e\u4e2a\u8f6f\u8003\u8bc1\uff01\uff08\u91cd\u5927\u5229\u597d\uff09",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=1&sn=fc68bc9e5e401ae2ad855e667bf21ddc&chksm=80225ef4b755d7e228780e1fdc2f9de83feb6f638c36a1e8bf74952c6483683b90cdef55339a#rd",
+        "create_time": 1734956243,
+        "update_time": 1735012200
+      },
+      {
+        "aid": "2651621685_2",
+        "appmsgid": 2651621685,
+        "from": "\u524d\u7aef\u5927\u5168",
+        "title": "\u56fe\u89e3Nestjs - \u9002\u5408\u4e2d\u56fd\u5b9d\u5b9d\u7684\u5165\u95e8\u6307\u5bfc",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=2&sn=9cd8c95783426c2c3a5d1b5802dfe97c&chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd",
+        "create_time": 1734956243,
+        "update_time": 1735012200
+      },
+      {
+        "aid": "2247501854_1",
+        "appmsgid": 2247501854,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "\u524d\u7aef\u884c\u60c5\u56de\u6696\u4e86\uff01\uff01\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501854&idx=1&sn=4489c5e756487b72db6b2624c002afbf&chksm=ce45dd8ff9325499b617d6425675fa96af853f36e9b61a49d6865b9bec4cff99866192e5314a#rd",
+        "create_time": 1734949006,
+        "update_time": 1735006200
       }
     ],
     [
@@ -35203,9 +35230,73 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274832&idx=1&sn=456ec9bb3869fcd4e2b8e2d54c3264e1&chksm=bd48e7d48a3f6ec22662a4f5cbe9cce76b7b268d9a21bf9d5b681b4883c918eafe8468337af6#rd",
         "create_time": 1734995988,
         "update_time": 1734998400
+      },
+      {
+        "aid": "2651229861_1",
+        "appmsgid": 2651229861,
+        "from": "InfoQ",
+        "title": "\u4f2a\u88c5\u201c\u8ba1\u7b97\u673a\u5de5\u7a0b\u5e08\u201d\u7a83\u53d6 TB \u7ea7\u6570\u636e\u52d2\u7d22 25 \u4e07\u7f8e\u5143\uff01\u524d FBI \u7279\u5de5\u89e3\u6790 AI \u65f6\u4ee3\u5b89\u5168\u5371\u673a",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651229861&idx=1&sn=5a7603d3cba1245c07ae528c2abde318&chksm=bdbb76f68accffe0b00171209acaf712fc9821e513a438f4bbe1f90d2a5b94c820da03a5d7c5#rd",
+        "create_time": 1735014390,
+        "update_time": 1735018200
+      },
+      {
+        "aid": "2651229861_2",
+        "appmsgid": 2651229861,
+        "from": "InfoQ",
+        "title": "2025 \u5e74\u6280\u672f\u6307\u5f15\uff1a\u8ba9\u771f\u5b9e\u6848\u4f8b\u548c\u7ecf\u9a8c\u4e3a\u5f00\u53d1\u8005\u5f00\u8def | QCon",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651229861&idx=2&sn=904d86702d4d7a5c563d7f4034585c6b&chksm=bdbb76f68accffe0710c38f74bacce6f31e04bbdaa3cff4392fb6886996ce3593f26aea0f947#rd",
+        "create_time": 1735014390,
+        "update_time": 1735018200
+      },
+      {
+        "aid": "2651229861_3",
+        "appmsgid": 2651229861,
+        "from": "InfoQ",
+        "title": "3000+\u9762\u8bd5\u9898\uff0c17\u5c0f\u65f6\u4e13\u5bb6\u8bfe\uff1a\u7a0b\u5e8f\u5458\u7684\u6c42\u804c\u52a0\u901f\u5305 | \u6781\u5ba2\u65f6\u95f4",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651229861&idx=3&sn=dcaa8141d9f64eb6752dc722ed11f241&chksm=bdbb76f68accffe05fcc779714663b2d50306f80b74b50d504c02c20caed8a8917b91a329d86#rd",
+        "create_time": 1735014390,
+        "update_time": 1735018200
+      },
+      {
+        "aid": "2651229861_4",
+        "appmsgid": 2651229861,
+        "from": "InfoQ",
+        "title": "\u6570\u636e\u5373\u5c06\u8017\u5c3d\uff1f\u5927\u578b AI \u516c\u53f8\u4e2d\u6ca1\u6709\u4eba\u4f1a\u611f\u5230\u6050\u614c",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651229861&idx=4&sn=c4829341a6e795bc7e79a360289828cb&chksm=bdbb76f68accffe0df892df93c5a28b72fba4a7fc1835a65e041a508cc4f5ed09e9b45321d56#rd",
+        "create_time": 1735014390,
+        "update_time": 1735018200
+      },
+      {
+        "aid": "2651229861_5",
+        "appmsgid": 2651229861,
+        "from": "InfoQ",
+        "title": "\u767e\u5ddd\u667a\u80fd\u53d1\u5e03\u91d1\u878d\u5927\u6a21\u578b Baichuan4-Finance\uff0c\u6574\u4f53\u51c6\u786e\u7387\u9886\u5148GPT-4o\u8fd120%",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651229861&idx=5&sn=f968a04832678d28f525790396ec312c&chksm=bdbb76f68accffe070fbc992d18953fe7eb427af94052ad308a24de76474d05762fcd2d695ea#rd",
+        "create_time": 1735014390,
+        "update_time": 1735018200
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247501856_1",
+        "appmsgid": 2247501856,
+        "from": "\u524d\u7aef\u4e4b\u795e",
+        "title": "\u60f3\u63d0\u9ad8 Vue \u6280\u672f\u7ade\u4e89\u529b\uff1f\u63a8\u8350\u51e0\u4e2a\u7b80\u5355\u7684\u6e90\u7801\u5e93\uff01",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501856&idx=1&sn=a846bd12a065a54f0e3e3b64d02ec683&chksm=ce45ddb1f93254a733934e75c20309bbe5e792f60598253fbf3c3c777209c5de2dbf569a9d93#rd",
+        "create_time": 1735086467,
+        "update_time": 1735087200
+      },
+      {
+        "aid": "2651274859_1",
+        "appmsgid": 2651274859,
+        "from": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "title": "\u3010\u65e9\u9605\u3011Cursor AI\uff1a5\u4e2a\u53ef\u80fd\u8fd8\u6ca1\u7528\u8fc7\u7684\u9ad8\u7ea7\u529f\u80fd",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274859&idx=1&sn=b7d6c256aa6c1eef9c40359e512168ad&chksm=bd48e7ef8a3f6ef9a90ad956a1c8c07f154b65d1746e086cfa1e0ca2a57cb0b23537c75b7480#rd",
+        "create_time": 1735083397,
+        "update_time": 1735084800
+      }
+    ],
     [],
     [],
     [],
