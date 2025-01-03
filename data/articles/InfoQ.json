@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651230712_1",
+    "appmsgid": 2651230712,
+    "from": "InfoQ",
+    "title": "\u521a\u521a\u8fc7\u53bb\u7684\u4e00\u5e74 GitHub \u5237\u661f\u5927\u7206\u53d1\uff1f\uff01450 \u4e07\u5047 Star\uff0c\u9879\u76ee\u98ce\u5149\u4ec5\u6491 2 \u4e2a\u6708\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651230712&idx=1&sn=2a5c0b69340d81f68974f24b0b990620&chksm=bdbb69ab8acce0bd4491b6db8e81e051e402b906f1176c7bb0638a09c8edb5f80dcafd3618b8#rd",
+    "create_time": 1735801174,
+    "update_time": 1735801173
+  },
+  {
+    "aid": "2651230712_2",
+    "appmsgid": 2651230712,
+    "from": "InfoQ",
+    "title": "LLM \u57fa\u5ea7\u9009\u578b\u3001\u6570\u636e\u96c6\u6784\u5efa\u4e0e\u4ea7\u54c1\u843d\u5730\u7684\u5751\u4e0e\u5bf9\u7b56",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651230712&idx=2&sn=f2f9434f798f83d743f585bc1f8bfee0&chksm=bdbb69ab8acce0bd148eae25c0f11695b5bb403dd596f6453e60f4bd6a5ce0757fa090041589#rd",
+    "create_time": 1735801174,
+    "update_time": 1735801173
+  },
+  {
+    "aid": "2651230712_3",
+    "appmsgid": 2651230712,
+    "from": "InfoQ",
+    "title": "\u5f00\u6e90\uff01\u56fd\u5185\u9996\u4e2a\u91d1\u878d\u884c\u4e1a\u63a8\u7406\u5927\u6a21\u578b\u2014\u2014\u5ea6\u5c0f\u6ee1\u8f69\u8f95-FinX1",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651230712&idx=3&sn=407b04bbdc7c376cc4788d30616d1f34&chksm=bdbb69ab8acce0bd1af3c531f8599c5f4db4f6ef5edf054392b996af4a9c4a3539a441f6fabe#rd",
+    "create_time": 1735801174,
+    "update_time": 1735801173
+  },
+  {
+    "aid": "2651230712_4",
+    "appmsgid": 2651230712,
+    "from": "InfoQ",
+    "title": "2025 \u5e74\u4f60\u5e94\u8be5\u544a\u522b\u7684 5 \u4e2a JavaScript \u5e93",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651230712&idx=4&sn=08788b61c01b380f6517c45c542ddd65&chksm=bdbb69ab8acce0bdcc6c8f311fe1559b47c8bcf9f84405141fd934793ba636eb0c117e5c72f5#rd",
+    "create_time": 1735801174,
+    "update_time": 1735801173
+  },
+  {
+    "aid": "2651230712_5",
+    "appmsgid": 2651230712,
+    "from": "InfoQ",
+    "title": "\u901a\u8fc7GitLab Duo Chat\u6df1\u5165\u4e86\u89e3\u5408\u5e76\u8bf7\u6c42",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651230712&idx=5&sn=4d142115535eaa2ff6b05a17568d286a&chksm=bdbb69ab8acce0bd10ce69d8cd39cd3971f4eeae7a55c91f2c497a3c52f0b69283ebcb4554b2#rd",
+    "create_time": 1735801174,
+    "update_time": 1735801173
+  },
+  {
     "aid": "2651230621_1",
     "appmsgid": 2651230621,
     "from": "InfoQ",
