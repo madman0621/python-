@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2651231467_1",
+    "appmsgid": 2651231467,
+    "from": "InfoQ",
+    "title": "\u85aa\u8d44\u5929\u82b1\u677f\u8bed\u8a00 Zig \u51fa\u795e\u4f5c\uff01HashiCorp \u5927\u795e\u65b0\u4f5c\u5237\u5c4f\u7f16\u7a0b\u5708\uff0cRedis \u4e4b\u7236\u76f4\u547c\u771f\u9999\uff01",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651231467&idx=1&sn=4774cde875ce4fc92d9c3ea6549feead&chksm=bdbb6cb88acce5aee3b52ccc3059713d74a7cffb51c3d7d8ffadc2c0f30b4cab5e4e41c2c7af#rd",
+    "create_time": 1736320303,
+    "update_time": 1736320302
+  },
+  {
+    "aid": "2651231467_2",
+    "appmsgid": 2651231467,
+    "from": "InfoQ",
+    "title": "\u5168\u94fe\u8def\u9769\u65b0\uff1a\u706b\u5c71\u5f15\u64ce\u89c6\u9891\u4e91\u5f15\u9886AI\u65b0\u89c6\u754c",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651231467&idx=2&sn=aa6b8ac8558e319ab8281ec93edc1a04&chksm=bdbb6cb88acce5ae2888e4c3edfbe50f1dfe80be80cba41f34bef2e3c7b2e66c58618fb59662#rd",
+    "create_time": 1736320303,
+    "update_time": 1736320302
+  },
+  {
+    "aid": "2651231467_3",
+    "appmsgid": 2651231467,
+    "from": "InfoQ",
+    "title": "OpenAI \u6700\u5f3a\u7ade\u5bf9 Anthropic\uff1a\u5982\u4f55\u6784\u5efa\u6709\u6548\u7684 Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651231467&idx=3&sn=e8400cad12fcbd5df2c68f7df5882256&chksm=bdbb6cb88acce5ae3bdb8f952b638b0528f4df6c8aedff7965b901942744336685bcccf4717f#rd",
+    "create_time": 1736320303,
+    "update_time": 1736320302
+  },
+  {
+    "aid": "2651231467_4",
+    "appmsgid": 2651231467,
+    "from": "InfoQ",
+    "title": "\u817e\u8baf\u3001\u5b81\u5fb7\u65f6\u4ee3\u7b49\u88ab\u5217\u5165\u7f8e\u56fd\u9632\u90e8\u9ed1\u540d\u5355\uff0c\u65f7\u89c6\u79d1\u6280\u88ab\u653e\u51fa\uff01\u6700\u65b0\u56de\u5e94\u6765\u4e86",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651231467&idx=4&sn=3d8aa9c318478c931344f1e4cd3bbda6&chksm=bdbb6cb88acce5aee48cfc5f9b38fe6cae357312f811fcc70dcbf4157d7a42b28b3a9c0cfbf8#rd",
+    "create_time": 1736320303,
+    "update_time": 1736320302
+  },
+  {
+    "aid": "2651231467_5",
+    "appmsgid": 2651231467,
+    "from": "InfoQ",
+    "title": "\u8c37\u6b4c\u63a8\u51fa\u5168\u65b0\u7684 AI \u6269\u5c55\u73b0\u5b9e\u5e73\u53f0 Android XR",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651231467&idx=5&sn=62597b18422dadd0c87b93944eedf3fb&chksm=bdbb6cb88acce5aee7ae92bda510c0e69a4fe5a370ac0e0d38c0568bae9acbf87e3638f49d9a#rd",
+    "create_time": 1736320303,
+    "update_time": 1736320302
+  },
+  {
     "aid": "2651231363_1",
     "appmsgid": 2651231363,
     "from": "InfoQ",
