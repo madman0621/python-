@@ -120,7 +120,7 @@ def getAllWeChatArticle(info):
     # 2、将查询的全部文章data-json进行保存data/artilces/公众号名称.json中
     jsonFilePath = './data/articles/%s.json' % (info['name'])
     with open(jsonFilePath, 'w+', encoding='utf-8') as dataFile:
-        json.dump(articles, dataFile, indent=2)
+        json.dump(articles, dataFile, indent=2, ensure_ascii=False)
 
     # 3、根据全部文章data-json生成对应的md文件
     # 格式：2023-02-22 14:14:33  [通过 React Router V6 源码，掌握前端路由](http://mp.weixin.qq.com/s?)
@@ -184,7 +184,7 @@ def getLastWeChatArticle(info):
             log("请求失败,记录缓存:", resp)
             cacheData = {"begin": begin, "articles": articles, "num": num}
             with open(cacheFilePath, 'w+', encoding='utf-8') as dataFile:
-                json.dump(cacheData, dataFile, indent=2)
+                json.dump(cacheData, dataFile, indent=2, ensure_ascii=False)
             return
 
         num = resp['app_msg_cnt']
@@ -213,7 +213,7 @@ def getLastWeChatArticle(info):
             break
         if (begin >= num):
             break
-        # 每次查询间隔一段时间，放置账号被封
+        # 每次查询间隔一段时间，防止账号被封
         time.sleep(5)
     if os.path.exists(cacheFilePath):
         os.remove(cacheFilePath)
@@ -224,7 +224,7 @@ def getLastWeChatArticle(info):
 
     # 2、更新公众号json本地数据
     with open(jsonFilePath, 'w+', encoding='utf-8') as dataFile:
-        json.dump(articles+oldDataJson, dataFile, indent=2)
+        json.dump(articles+oldDataJson, dataFile, indent=2, ensure_ascii=False)
 
     # 3、更新公众号md内容以及初始化时间线数据
     mdText = ''
@@ -272,7 +272,7 @@ def getLastWeChatArticle(info):
     for yearName, yearData in timeData.items():
         jsonFilePath = './data/time/%s.json' % yearName
         with open(jsonFilePath, 'w+', encoding='utf-8') as dataFile:
-            json.dump(yearData, dataFile, indent=2)
+            json.dump(yearData, dataFile, indent=2, ensure_ascii=False)
 
         mdText = ''
         yearData.reverse()
@@ -339,6 +339,7 @@ if __name__ == '__main__':
         # findWeChatInfo('字节前端')
         # findAllWeChatInfo(['阿里巴巴终端技术', '支付宝体验科技', '前端之神', '前端新世界', '前端开发爱好者', '前端早读课', '字节前端 ByteFE',
         #                   '大淘宝技术', '前端之巅', 'InfoQ', 'Oasis 引擎爱好者', '前端试炼', '大淘宝前端技术', '前端真好玩', '前端大全'])
+        # findAllWeChatInfo(['哔哩哔哩技术','奇舞精选','程序员成长指北','goodme前端团队','大转转FE','网易云音乐技术团队'])
         # getAllWeChatArticle({'name': '抖音前端技术团队', 'fakeid': 'Mzg3MDY2NTEyNg=='})
         # getAllWeChatArticle({"name": "支付宝体验科技", "fakeid": "Mzg2OTYyODU0NQ=="})
         # getAllWeChatArticle(
@@ -346,10 +347,22 @@ if __name__ == '__main__':
         # getLastWeChatArticle(
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
 
+        for infoItem in weChatConfig:
+            gapNum = infoItem.get('gapNum',1)
+            gapDay = infoItem.get('gapDay',0)
+            if(gapNum >= gapDay):
+                getLastWeChatArticle(infoItem)
+                infoItem['gapNum'] = 1
+            else:
+                infoItem['gapNum'] = gapNum+1
+        print('数据抓取完成')
 
-        # for infoItem in weChatConfig:
-        #     getLastWeChatArticle(infoItem)
-        # print('数据抓取完成')
+        # 更新配置信息
+        with open('./config/index.json', 'w+', encoding='utf-8') as dataFile:
+            config['weChatInfo'] = weChatConfig
+            json.dump(config, dataFile, indent=2,ensure_ascii=False)
+
+        # 日报输出（目前短链接服务不可用）
         # getDayInfo()
 
     except Exception as e:
