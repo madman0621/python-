@@ -341,26 +341,25 @@ if __name__ == '__main__':
         #                   '大淘宝技术', '前端之巅', 'InfoQ', 'Oasis 引擎爱好者', '前端试炼', '大淘宝前端技术', '前端真好玩', '前端大全'])
         # findAllWeChatInfo(['哔哩哔哩技术','奇舞精选','程序员成长指北','goodme前端团队','大转转FE','网易云音乐技术团队'])
         # getAllWeChatArticle({'name': '抖音前端技术团队', 'fakeid': 'Mzg3MDY2NTEyNg=='})
-        # getAllWeChatArticle({"name": "支付宝体验科技", "fakeid": "Mzg2OTYyODU0NQ=="})
         # getAllWeChatArticle(
         #     {"name": "字节前端 ByteFE", "fakeid": "Mzg2ODQ1OTExOA=="})
         # getLastWeChatArticle(
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
 
-        for infoItem in weChatConfig:
-            gapNum = infoItem.get('gapNum',1)
-            gapDay = infoItem.get('gapDay',0)
-            if(gapNum >= gapDay):
-                getLastWeChatArticle(infoItem)
-                infoItem['gapNum'] = 1
-            else:
-                infoItem['gapNum'] = gapNum+1
-        print('数据抓取完成')
+        # for infoItem in weChatConfig:
+        #     gapNum = infoItem.get('gapNum',1)
+        #     gapDay = infoItem.get('gapDay',0)
+        #     if(gapNum >= gapDay):
+        #         getLastWeChatArticle(infoItem)
+        #         infoItem['gapNum'] = 1
+        #     else:
+        #         infoItem['gapNum'] = gapNum+1
+        # print('数据抓取完成')
 
-        # 更新配置信息
-        with open('./config/index.json', 'w+', encoding='utf-8') as dataFile:
-            config['weChatInfo'] = weChatConfig
-            json.dump(config, dataFile, indent=2,ensure_ascii=False)
+        # # 更新配置信息
+        # with open('./config/index.json', 'w+', encoding='utf-8') as dataFile:
+        #     config['weChatInfo'] = weChatConfig
+        #     json.dump(config, dataFile, indent=2,ensure_ascii=False)
 
         # 日报输出（目前短链接服务不可用）
         # getDayInfo()
