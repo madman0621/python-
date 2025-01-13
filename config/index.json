@@ -25,7 +25,8 @@
         },
         {
             "name": "程序员成长指北",
-            "fakeid": "MzUxNzk1MjQ0Ng=="
+            "fakeid": "MzUxNzk1MjQ0Ng==",
+            "lastTime": 1735660800
         },
         {
             "name": "前端早读课",
@@ -36,12 +37,14 @@
         {
             "name": "大转转FE",
             "fakeid": "MzU0OTExNzYwNg==",
+            "lastTime": 1735660800,
             "gapDay": 7,
             "gapNum": 3
         },
         {
             "name": "Goodme前端团队",
             "fakeid": "Mzg4OTkwMTY3Mg==",
+            "lastTime": 1735660800,
             "gapDay": 7,
             "gapNum": 2
         },
@@ -66,15 +69,18 @@
         {
             "name": "网易云音乐技术团队",
             "fakeid": "MzI1NTg3NzcwNQ==",
+            "lastTime": 1735660800,
             "gapDay": 30
         },
         {
             "name": "奇舞精选",
-            "fakeid": "Mzg4MTYwMzY1Mw=="
+            "fakeid": "Mzg4MTYwMzY1Mw==",
+            "lastTime": 1735660800
         },
         {
             "name": "哔哩哔哩技术",
             "fakeid": "Mzg3Njc0NTgwMg==",
+            "lastTime": 1735660800,
             "gapDay": 2
         },
         {
