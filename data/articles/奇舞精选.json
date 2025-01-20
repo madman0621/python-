@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247514221_1",
+    "appmsgid": 2247514221,
+    "from": "奇舞精选",
+    "title": "事件驱动的 AI：使用 Kafka 和 Flink 构建研究助手",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514221&idx=1&sn=85d3641435fd60ad1e1326a4c4cca982&chksm=cf619d47f8161451482ec9c706358a3f1a2a7057bca839d7a61376307fed5892186d0d28ccab#rd",
+    "create_time": 1737107815,
+    "update_time": 1737165600
+  },
+  {
+    "aid": "2247514220_1",
+    "appmsgid": 2247514220,
+    "from": "奇舞精选",
+    "title": "奇舞周刊第547期：2025 年的 React + AI 技术栈",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514220&idx=1&sn=bee95b98be8e011223ac278743ce2e80&chksm=cf619d46f81614503bd51884ff0cc98c51f8d3d0cbea23699cf675c3114265942297c60141ce#rd",
+    "create_time": 1737107099,
+    "update_time": 1737107099
+  },
+  {
     "aid": "2247514191_1",
     "appmsgid": 2247514191,
     "from": "奇舞精选",
